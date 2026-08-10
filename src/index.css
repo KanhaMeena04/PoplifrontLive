@@ -1,0 +1,99 @@
+@import "tailwindcss";
+
+@theme {
+  /* Premium Obsidian & Gold Luxury Theme */
+  --color-primary: #D4AF37; /* Metallic Gold */
+  --color-secondary: #F3E5AB; /* Vanilla Gold */
+  --color-accent: #B87333; /* Copper / Bronze */
+  --color-pink: #d97706; /* Amber */
+  --color-yellow: #fcd34d; /* Light Gold */
+  
+  /* Obsidian Dark Theme */
+  --color-dark: #050505; /* Pitch black */
+  --color-dark-surface: #111111; /* Very dark charcoal */
+  --color-dark-surface-2: #1a1a1a; /* Elevated charcoal */
+  --color-dark-surface-3: #222222; /* Highest elevation */
+  
+  /* Glass Effects */
+  --color-glass: rgba(255, 255, 255, 0.02);
+  --color-glass-border: rgba(212, 175, 55, 0.15); /* Subtle gold glass border */
+  
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Space Grotesk', sans-serif;
+  --font-poppins: 'Poppins', sans-serif;
+}
+
+@layer base {
+  :root {
+    --background: 5 5 5; /* #050505 */
+    --foreground: 255 255 255;
+  }
+  
+  html, body {
+    @apply bg-dark text-white font-sans antialiased selection:bg-primary selection:text-black;
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+  }
+}
+
+@layer utilities {
+  .glass-card {
+    @apply bg-dark-surface/80 backdrop-blur-2xl border border-glass-border rounded-3xl shadow-[0_8px_32px_rgba(0,0,0,0.8)] transition-all duration-500 hover:bg-dark-surface-2 hover:border-primary/30 hover:shadow-[0_8px_32px_rgba(212,175,55,0.15)];
+  }
+  
+  .glass-nav {
+    @apply bg-dark/90 backdrop-blur-3xl border-b border-glass-border;
+  }
+
+  .text-gradient {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-primary to-secondary;
+  }
+
+  .text-gradient-accent {
+    @apply bg-clip-text text-transparent bg-gradient-to-r from-secondary via-primary to-accent;
+  }
+
+  .premium-button {
+    @apply relative overflow-hidden bg-gradient-to-r from-primary to-accent text-black font-bold tracking-wide rounded-full px-8 py-3 transition-all duration-300 hover:scale-[1.02] active:scale-95 shadow-[0_0_20px_rgba(212,175,55,0.2)] hover:shadow-[0_0_30px_rgba(212,175,55,0.4)];
+  }
+
+  .premium-button-secondary {
+    @apply relative overflow-hidden bg-dark-surface-2 text-primary font-medium tracking-wide rounded-full px-8 py-3 border border-primary/30 transition-all duration-300 hover:bg-dark-surface-3 hover:border-primary/60 active:scale-95 shadow-sm;
+  }
+
+  .blob-shape {
+    border-radius: 40% 60% 70% 30% / 40% 50% 60% 50%;
+  }
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: #050505;
+}
+::-webkit-scrollbar-thumb {
+  background: #222222;
+  border-radius: 3px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #333333;
+}
+
+/* Lenis Smooth Scroll Recommended */
+html.lenis, html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-smooth [data-lenis-prevent] {
+  overscroll-behavior: contain;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+.lenis.lenis-scrolling iframe {
+  pointer-events: none;
+}

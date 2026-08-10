@@ -1,0 +1,12 @@
+{
+  "name": "Popli Entertainment Pvt. Ltd.",
+  "email": "popli.admin@gmail.com",
+  "phone": "8308435451",
+  "address": "Nh-27, Bijoliya, District, bhilwara Rajasthan 311602",
+  "socials": [
+    { "platform": "Instagram", "url": "https://www.instagram.com/popli.app?igsh=eDM4Y2U1c2ozOTc3", "icon": "Instagram" },
+    { "platform": "Facebook", "url": "https://www.facebook.com/share/1cmnE2c77x/?mibextid=wwXIfr", "icon": "Facebook" },
+    { "platform": "LinkedIn", "url": "https://linkedin.com/company/popli", "icon": "Linkedin" },
+    { "platform": "YouTube", "url": "https://youtube.com/popli", "icon": "Youtube" }
+  ]
+}

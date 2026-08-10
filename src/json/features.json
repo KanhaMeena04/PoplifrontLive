@@ -1,0 +1,26 @@
+[
+  {
+    "id": "infinite-reels",
+    "title": "Infinite Reels",
+    "description": "Endless stream of high-quality, entertaining content curated just for you.",
+    "icon": "Video"
+  },
+  {
+    "id": "nearby-feed",
+    "title": "Nearby Feed",
+    "description": "Discover talented creators and trending videos from your own city.",
+    "icon": "MapPin"
+  },
+  {
+    "id": "creator-profile",
+    "title": "Creator Profile",
+    "description": "Build your brand with customizable profiles, analytics, and portfolios.",
+    "icon": "UserCircle"
+  },
+  {
+    "id": "trending-videos",
+    "title": "Trending Videos",
+    "description": "Stay updated with what's going viral across the nation.",
+    "icon": "TrendingUp"
+  }
+]

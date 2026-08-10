@@ -1,0 +1,26 @@
+[
+  {
+    "id": "create-account",
+    "title": "Create Account",
+    "description": "Sign up in seconds and set up your personalized creator profile.",
+    "icon": "UserCircle"
+  },
+  {
+    "id": "upload-video",
+    "title": "Upload Your Video",
+    "description": "Use our advanced tools to record, edit, and publish high-quality videos.",
+    "icon": "Video"
+  },
+  {
+    "id": "earn",
+    "title": "Earn",
+    "description": "Get paid for views, receive virtual gifts, and unlock brand deals.",
+    "icon": "Coins"
+  },
+  {
+    "id": "feed",
+    "title": "Feed",
+    "description": "Discover talented creators and trending videos tailored just for you.",
+    "icon": "TrendingUp"
+  }
+]

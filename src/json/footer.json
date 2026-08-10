@@ -1,0 +1,18 @@
+{
+  "quickLinks": [
+    { "label": "Home", "path": "/" },
+    { "label": "Features", "path": "/features" },
+    { "label": "Creator Economy", "path": "/creator-economy" },
+    { "label": "About Popli", "path": "/about" },
+    { "label": "Contact Us", "path": "/contact" }
+  ],
+  "legalLinks": [
+    { "label": "Privacy Policy", "path": "/privacy-policy" },
+    { "label": "Terms of Service", "path": "/terms" }
+  ],
+  "newsletter": {
+    "title": "Stay Updated",
+    "description": "Subscribe to our newsletter for the latest creator tips and platform updates."
+  },
+  "copyright": "© 2026 Popli Technologies Pvt. Ltd. All rights reserved."
+}

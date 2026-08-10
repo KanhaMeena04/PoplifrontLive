@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1E40AF" />
+      <stop offset="35%" stop-color="#3B82F6" />
+      <stop offset="70%" stop-color="#EC4899" />
+      <stop offset="100%" stop-color="#FACC15" />
+    </linearGradient>
+    <linearGradient id="pGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="100%" stop-color="#F3F4F6" />
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="16" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+  <rect width="512" height="512" rx="128" fill="url(#bgGrad)" />
+  <!-- Stylized P Icon representing Play & Popli -->
+  <path d="M160 120H280C335.228 120 380 164.772 380 220C380 275.228 335.228 320 280 320H220V392C220 405.255 209.255 416 196 416H184C170.745 416 160 405.255 160 392V120Z" fill="url(#pGrad)" filter="url(#glow)"/>
+  <circle cx="280" cy="220" r="44" fill="#EC4899"/>
+  <polygon points="268,204 300,220 268,236" fill="#FACC15" />
+</svg>

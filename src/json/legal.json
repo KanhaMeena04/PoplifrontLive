@@ -1,0 +1,3849 @@
+{
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "July 7, 2026",
+    "content": [
+      {
+        "type": "h2",
+        "text": "1. INTRODUCTION"
+      },
+      {
+        "type": "p",
+        "text": "1.1. These Terms and Conditions, along with the Privacy Policy, Community Guidelines, Creator Programme Terms, and any other policies or terms expressly incorporated by reference (collectively, the \"Terms\"), govern your access to and use of the POPLI platform, including the website, mobile application, and all associated services, features, and content (the \"Platform\")."
+      },
+      {
+        "type": "p",
+        "text": "1.2. These Terms constitute a legally binding agreement between you (\"you\", \"your\", or \"User\") and [LEGAL ENTITY NAME] (\"POPLI\", \"we\", \"us\", or \"our\"), the operator of the POPLI Platform. By using the Platform, you accept these Terms and agree to be bound by them. If you are using the Platform on behalf of an organization or other legal entity, you represent and warrant that you have the authority to bind that entity to these Terms, and references to \"you\" shall include the entity you represent."
+      },
+      {
+        "type": "p",
+        "text": "1.3. The POPLI Platform is a social media and short-form content platform designed for users and creators in India. It allows Users to create accounts, upload and share content, interact with other Users, participate in challenges and campaigns, and, for eligible creators, participate in monetization programmes. The Platform is provided for informational, entertainment, and social networking purposes only."
+      },
+      {
+        "type": "p",
+        "text": "1.4. By using the Platform, you acknowledge that you have read, understood, and agree to be bound by these Terms. If you do not agree to these Terms, you must not register for, access, or use the Platform. Your use of the Platform constitutes your unconditional acceptance of these Terms."
+      },
+      {
+        "type": "p",
+        "text": "1.5. These Terms incorporate by reference the following documents, which form an integral part of this agreement:"
+      },
+      {
+        "type": "p",
+        "text": "1.5.1. The POPLI Privacy Policy, which explains how we collect, use, and protect your personal information."
+      },
+      {
+        "type": "p",
+        "text": "1.5.2. The POPLI Community Guidelines, which set forth the standards of conduct expected of all Users."
+      },
+      {
+        "type": "p",
+        "text": "1.5.3. The POPLI Creator Programme Terms, which govern participation in monetization programmes."
+      },
+      {
+        "type": "p",
+        "text": "1.5.4. Any other policies, rules, or guidelines posted on the Platform from time to time."
+      },
+      {
+        "type": "p",
+        "text": "1.6. POPLI may introduce, modify, restrict, suspend, or discontinue any feature, functionality, or service offered on the Platform at any time, with or without prior notice, subject to applicable law. Some features may not be available to all Users and may be subject to additional terms and conditions."
+      },
+      {
+        "type": "h2",
+        "text": "2. DEFINITIONS"
+      },
+      {
+        "type": "p",
+        "text": "2.1. \"Account\" means the user account created by a User on the Platform to access and use the Services."
+      },
+      {
+        "type": "p",
+        "text": "2.2. \"Campaign\" means a promotional, marketing, or sponsored initiative conducted on the Platform, which may be organized by POPLI, its partners, or third-party brands."
+      },
+      {
+        "type": "p",
+        "text": "2.3. \"Challenge\" means a thematic or competitive activity initiated on the Platform that invites Users to create and submit Content according to specified prompts, rules, or themes."
+      },
+      {
+        "type": "p",
+        "text": "2.4. \"Coins\" means the virtual, platform-based tokens available on POPLI, which may be acquired by Users and used for permitted activities on the Platform, including sending Virtual Gifts."
+      },
+      {
+        "type": "p",
+        "text": "2.5. \"Community Guidelines\" means the standards, rules, and policies established by POPLI governing User conduct and Content on the Platform, as updated from time to time."
+      },
+      {
+        "type": "p",
+        "text": "2.6. \"Content\" means any text, images, graphics, videos, audio, reels, livestreams, comments, captions, profile information, data, or other materials uploaded, posted, shared, or otherwise made available on the Platform by any User."
+      },
+      {
+        "type": "p",
+        "text": "2.7. \"Creator\" means a User who has been accepted into the POPLI Creator Programme and is eligible to earn Earnings from their Content."
+      },
+      {
+        "type": "p",
+        "text": "2.8. \"Creator Programme\" means the monetization programme operated by POPLI that enables eligible Creators to earn Earnings based on qualifying activity on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.9. \"Earnings\" means the amounts payable to a Creator arising from their participation in the Creator Programme, including view-based earnings, rewards, gifts, or other monetization opportunities, subject to these Terms and applicable programme rules."
+      },
+      {
+        "type": "p",
+        "text": "2.10. \"Eligible View\" means a view of a Creator's Content that meets the criteria established by POPLI for monetization, including but not limited to genuineness, watch duration, geographic eligibility, content eligibility, account eligibility, and compliance with all applicable Platform policies."
+      },
+      {
+        "type": "p",
+        "text": "2.11. \"Invalid Activity\" means any activity that artificially inflates or manipulates views, engagement, or any other metric on the Platform, including but not limited to the use of bots, scripts, automated viewing, click farms, view farms, purchased views, engagement exchanges, self-view manipulation, device farms, emulator abuse, repeated artificial refreshing, coordinated manipulation, incentivized fake engagement, fraudulent traffic, automated accounts, exploitation of platform vulnerabilities, and attempts to bypass fraud detection systems."
+      },
+      {
+        "type": "p",
+        "text": "2.12. \"Platform\" means the POPLI website, mobile application, and all associated services, features, content, and functionalities provided by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "2.13. \"POPLI\" means [LEGAL ENTITY NAME], the operator of the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.14. \"Reel\" means a short-form video or similar content format uploaded and published on the Platform by a User."
+      },
+      {
+        "type": "p",
+        "text": "2.15. \"Rewards\" means virtual items, Coins, or other benefits that may be awarded to Users for participating in certain activities, challenges, campaigns, or referral programmes on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.16. \"Services\" means all services provided by POPLI through the Platform, including but not limited to content hosting, social networking, content discovery, monetization, and any other services offered from time to time."
+      },
+      {
+        "type": "p",
+        "text": "2.17. \"User\" means any individual or entity that accesses or uses the Platform, whether as a viewer, content creator, or otherwise."
+      },
+      {
+        "type": "p",
+        "text": "2.18. \"User Content\" means any Content that a User uploads, posts, shares, or otherwise makes available on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.19. \"Virtual Gift\" means a virtual item that a User may send to a Creator on the Platform, which may have a value in Coins and may be converted to Earnings for eligible Creators."
+      },
+      {
+        "type": "h2",
+        "text": "3. ELIGIBILITY"
+      },
+      {
+        "type": "p",
+        "text": "3.1. By using the Platform, you represent and warrant that you meet the following eligibility requirements."
+      },
+      {
+        "type": "p",
+        "text": "3.2. You must be at least [MINIMUM AGE REQUIREMENT - TO BE CONFIRMED BY LEGAL COUNSEL BASED ON SERVICE AND APPLICABLE LAW] years of age to create an Account and use the Platform. The minimum age requirement for using the Platform shall be determined by POPLI in compliance with applicable laws, including the Information Technology Act, 2000, the Protection of Children from Sexual Offences Act, 2012, and any other relevant legislation. POPLI reserves the right to verify your age through appropriate means."
+      },
+      {
+        "type": "p",
+        "text": "3.3. If you are below the age of majority in your jurisdiction, you represent that you have obtained the consent of your parent or legal guardian to use the Platform, and that such parent or legal guardian has read and agreed to these Terms on your behalf. You and your parent or legal guardian shall be jointly and severally liable for your compliance with these Terms."
+      },
+      {
+        "type": "p",
+        "text": "3.4. You must have the legal capacity to enter into a binding contract under applicable law. If you are using the Platform on behalf of an organization, you represent that you have the authority to bind such organization to these Terms."
+      },
+      {
+        "type": "p",
+        "text": "3.5. You must not have been previously suspended, terminated, or barred from using the Platform by POPLI, unless you have received explicit written permission to create a new Account."
+      },
+      {
+        "type": "p",
+        "text": "3.6. The Platform is primarily designed for Users in India. Access to the Platform and certain features may be restricted in jurisdictions where the provision of such services is prohibited by applicable law. You are responsible for ensuring that your use of the Platform complies with all applicable local laws and regulations in your jurisdiction."
+      },
+      {
+        "type": "h2",
+        "text": "4. ACCOUNT REGISTRATION"
+      },
+      {
+        "type": "p",
+        "text": "4.1. To access certain features of the Platform, you must create an Account by providing accurate, current, and complete information as requested during the registration process."
+      },
+      {
+        "type": "p",
+        "text": "4.2. You agree to provide and maintain accurate and up-to-date information in your Account. You are solely responsible for the accuracy and completeness of the information you provide."
+      },
+      {
+        "type": "p",
+        "text": "4.3. You may be required to verify your identity through telephone number verification, email verification, OTP authentication, or other methods as determined by POPLI. You agree to comply with all verification procedures and provide any additional information reasonably requested."
+      },
+      {
+        "type": "p",
+        "text": "4.4. You must select a username and password for your Account. You are solely responsible for maintaining the confidentiality and security of your login credentials. You agree not to share your password or Account access with any third party."
+      },
+      {
+        "type": "p",
+        "text": "4.5. You shall be fully responsible for all activities that occur under your Account, whether or not authorized by you. You agree to immediately notify POPLI of any unauthorized access to or use of your Account. POPLI shall not be liable for any loss or damage arising from your failure to comply with this provision."
+      },
+      {
+        "type": "p",
+        "text": "4.6. Each User is permitted to maintain only one Account on the Platform, unless explicitly permitted in writing by POPLI. Creating multiple accounts, using false identities, impersonating any other person, or providing misleading information during registration is strictly prohibited."
+      },
+      {
+        "type": "p",
+        "text": "4.7. You must not create an Account using a username that is the name of another person with the intent to impersonate that person, or a name that is subject to any rights of another person without appropriate authorization, or a name that is offensive, vulgar, or obscene."
+      },
+      {
+        "type": "p",
+        "text": "4.8. If you forget your password or lose access to your Account, you may use the Account recovery mechanisms provided by POPLI. POPLI reserves the right to request additional verification before restoring access."
+      },
+      {
+        "type": "p",
+        "text": "4.9. You are obligated to promptly update your Account information to ensure it remains accurate and complete. Failure to maintain accurate information may result in the suspension or termination of your Account."
+      },
+      {
+        "type": "h2",
+        "text": "5. USER PROFILE"
+      },
+      {
+        "type": "p",
+        "text": "5.1. You may create a profile in connection with your Account, which may include a profile photo, bio, username, and other information you choose to make available."
+      },
+      {
+        "type": "p",
+        "text": "5.2. You may choose to make your profile public or private, subject to the Platform's functionality and settings. If you choose a public profile, your profile information and Content may be visible to other Users and, where applicable, to the public."
+      },
+      {
+        "type": "p",
+        "text": "5.3. You are solely responsible for the information you include in your profile, including its accuracy and appropriateness. You represent that all information in your profile is true, accurate, and not misleading."
+      },
+      {
+        "type": "p",
+        "text": "5.4. POPLI reserves the right to remove or modify any profile information that violates these Terms, the Community Guidelines, or applicable law, or that POPLI reasonably determines to be inappropriate."
+      },
+      {
+        "type": "p",
+        "text": "5.5. You acknowledge that certain profile information, including your username and public profile details, may be visible to other Users and may be indexed by search engines. You should exercise caution in deciding what information to make publicly available."
+      },
+      {
+        "type": "h2",
+        "text": "6. USER CONTENT"
+      },
+      {
+        "type": "p",
+        "text": "6.1. The Platform allows you to upload, post, share, and publish User Content, including but not limited to reels, videos, photos, audio files, captions, comments, livestreams (if introduced), profile information, and other materials."
+      },
+      {
+        "type": "p",
+        "text": "6.2. You retain ownership of your original User Content, subject to the licence granted to POPLI in Section 7 of these Terms."
+      },
+      {
+        "type": "p",
+        "text": "6.3. You represent and warrant that:"
+      },
+      {
+        "type": "p",
+        "text": "6.3.1. You are the sole author and owner of the User Content, or you have obtained all necessary rights, licences, consents, and permissions to upload, post, and share such User Content on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "6.3.2. The User Content does not infringe, violate, or misappropriate any third-party rights, including but not limited to copyright, trademark, patent, trade secret, moral rights, privacy rights, publicity rights, or any other proprietary rights."
+      },
+      {
+        "type": "p",
+        "text": "6.3.3. The User Content complies with all applicable laws, these Terms, and the Community Guidelines."
+      },
+      {
+        "type": "p",
+        "text": "6.3.4. The User Content does not contain any viruses, malware, or other harmful code."
+      },
+      {
+        "type": "p",
+        "text": "6.4. You are solely responsible for the User Content you upload, post, or share on the Platform. POPLI does not endorse, support, represent, or guarantee the completeness, truthfulness, accuracy, or reliability of any User Content."
+      },
+      {
+        "type": "p",
+        "text": "6.5. POPLI reserves the right, but does not assume the obligation, to review, moderate, filter, restrict, remove, or refuse to display any User Content that violates these Terms, the Community Guidelines, or applicable law, or that POPLI reasonably determines to be inappropriate or harmful."
+      },
+      {
+        "type": "p",
+        "text": "6.6. You acknowledge that User Content may be viewed by other Users and, depending on your privacy settings, may be made publicly available. You should exercise caution when sharing personal or sensitive information through User Content."
+      },
+      {
+        "type": "p",
+        "text": "6.7. You agree not to upload, post, or share any User Content that:"
+      },
+      {
+        "type": "p",
+        "text": "6.7.1. Is unlawful, defamatory, libellous, obscene, pornographic, indecent, lewd, harassing, threatening, abusive, inflammatory, or fraudulent."
+      },
+      {
+        "type": "p",
+        "text": "6.7.2. Promotes discrimination, bigotry, racism, hatred, or harm against any individual or group."
+      },
+      {
+        "type": "p",
+        "text": "6.7.3. Contains any material that exploits or endangers minors."
+      },
+      {
+        "type": "p",
+        "text": "6.7.4. Violates any applicable law or regulation."
+      },
+      {
+        "type": "p",
+        "text": "6.7.5. Impersonates any person or entity or falsely states or misrepresents your affiliation with a person or entity."
+      },
+      {
+        "type": "p",
+        "text": "6.7.6. Contains advertising or solicitation without appropriate disclosure or authorization."
+      },
+      {
+        "type": "p",
+        "text": "6.7.7. Constitutes spam, junk mail, chain letters, or any other form of unsolicited communication."
+      },
+      {
+        "type": "h2",
+        "text": "7. OWNERSHIP OF USER CONTENT"
+      },
+      {
+        "type": "p",
+        "text": "7.1. Ownership. You retain all ownership rights in and to your original User Content. Nothing in these Terms transfers ownership of your User Content to POPLI."
+      },
+      {
+        "type": "p",
+        "text": "7.2. Licence to POPLI. By uploading, posting, or sharing User Content on the Platform, you grant POPLI a non-exclusive, royalty-free, sub-licensable, transferable, worldwide, perpetual, and irrevocable licence to use, host, store, reproduce, modify, adapt, edit, display, distribute, perform, translate, transcode, format, create derivative works from, and otherwise fully exploit such User Content in connection with the Platform and POPLI's business, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "7.2.1. Hosting, storing, and backing up User Content on servers and systems operated by or on behalf of POPLI."
+      },
+      {
+        "type": "p",
+        "text": "7.2.2. Reproducing and displaying User Content to Users on the Platform, including through feeds, recommendations, and search results."
+      },
+      {
+        "type": "p",
+        "text": "7.2.3. Distributing User Content through various channels and formats, including mobile applications and websites."
+      },
+      {
+        "type": "p",
+        "text": "7.2.4. Transcoding, compressing, and adapting User Content for technical formatting, optimization, and compatibility across different devices and platforms."
+      },
+      {
+        "type": "p",
+        "text": "7.2.5. Recommending, promoting, and making User Content discoverable within the Platform."
+      },
+      {
+        "type": "p",
+        "text": "7.2.6. Using User Content for any other purpose reasonably necessary to operate, improve, and develop the Platform and its features."
+      },
+      {
+        "type": "p",
+        "text": "7.3. The licence granted to POPLI under this Section 7 is intended to enable POPLI to operate the Platform and provide the Services. You acknowledge that without this licence, POPLI would be unable to host, display, or distribute your User Content."
+      },
+      {
+        "type": "p",
+        "text": "7.4. Effect of Deletion. Upon deletion of your User Content or termination of your Account, the licence granted under this Section 7 shall terminate with respect to the specific User Content deleted. However, you acknowledge and agree that:"
+      },
+      {
+        "type": "p",
+        "text": "7.4.1. POPLI may retain backup copies of User Content for a reasonable period in accordance with its backup and retention policies."
+      },
+      {
+        "type": "p",
+        "text": "7.4.2. POPLI may retain and continue to use User Content to the extent required by applicable law, legal obligations, or regulatory requirements."
+      },
+      {
+        "type": "p",
+        "text": "7.4.3. User Content that has been shared, reposted, or otherwise disseminated by other Users prior to deletion may continue to be accessible through their accounts."
+      },
+      {
+        "type": "p",
+        "text": "7.4.4. POPLI may retain User Content as necessary to resolve disputes, enforce these Terms, or respond to legal or regulatory requests."
+      },
+      {
+        "type": "p",
+        "text": "7.5. You acknowledge that User Content is stored on servers operated by or on behalf of POPLI, and that POPLI has no obligation to return, provide, or make available copies of User Content to you."
+      },
+      {
+        "type": "h2",
+        "text": "8. INTELLECTUAL PROPERTY"
+      },
+      {
+        "type": "p",
+        "text": "8.1. All intellectual property rights in and to the Platform, including but not limited to the software, code, algorithms, interface, design, layout, graphics, logos, trademarks, service marks, trade names, and other proprietary materials (collectively, \"POPLI IP\"), are owned by or licensed to POPLI."
+      },
+      {
+        "type": "p",
+        "text": "8.2. The POPLI name, logo, and all related names, logos, product and service names, designs, and slogans are trademarks of POPLI or its affiliates or licensors. You may not use such marks without the prior written permission of POPLI."
+      },
+      {
+        "type": "p",
+        "text": "8.3. You are granted a limited, non-exclusive, non-transferable, revocable licence to access and use the Platform and POPLI IP for your personal, non-commercial use in accordance with these Terms. This licence does not include:"
+      },
+      {
+        "type": "p",
+        "text": "8.3.1. Any right to copy, reproduce, modify, adapt, create derivative works from, or distribute POPLI IP."
+      },
+      {
+        "type": "p",
+        "text": "8.3.2. Any right to decompile, disassemble, reverse engineer, or otherwise attempt to derive the source code of any software underlying the Platform."
+      },
+      {
+        "type": "p",
+        "text": "8.3.3. Any right to use POPLI IP for commercial purposes, including but not limited to selling, reselling, or exploiting the Platform or any part thereof."
+      },
+      {
+        "type": "p",
+        "text": "8.4. You agree not to challenge, dispute, or otherwise impair POPLI's ownership of or rights in and to POPLI IP."
+      },
+      {
+        "type": "p",
+        "text": "8.5. Any unauthorized use of POPLI IP shall constitute a violation of these Terms and may infringe POPLI's intellectual property rights. POPLI reserves all rights not expressly granted under these Terms."
+      },
+      {
+        "type": "h2",
+        "text": "9. COPYRIGHT AND THIRD-PARTY RIGHTS"
+      },
+      {
+        "type": "p",
+        "text": "9.1. You agree not to upload, post, or share User Content that violates the copyright, trademark, or other intellectual property rights of any third party. This includes, without limitation, using copyrighted music, images, videos, film clips, logos, trademarks, or other protected works in your User Content without obtaining the necessary permissions."
+      },
+      {
+        "type": "p",
+        "text": "9.2. You further agree not to upload, post, or share User Content that violates any third party's personality rights, publicity rights, privacy rights, or other proprietary rights."
+      },
+      {
+        "type": "p",
+        "text": "9.3. If you believe that any Content on the Platform infringes your copyright or other intellectual property rights, or if you believe that your rights have been violated in any other manner, please contact POPLI's designated agent at:"
+      },
+      {
+        "type": "p",
+        "text": "[LEGAL ENTITY NAME]"
+      },
+      {
+        "type": "p",
+        "text": "Attn: Copyright/IP Complaint"
+      },
+      {
+        "type": "p",
+        "text": "Email: [LEGAL CONTACT EMAIL]"
+      },
+      {
+        "type": "p",
+        "text": "Address: [REGISTERED OFFICE ADDRESS]"
+      },
+      {
+        "type": "p",
+        "text": "9.4. In your complaint, please provide:"
+      },
+      {
+        "type": "p",
+        "text": "9.4.1. A description of the copyrighted work or other intellectual property right that you claim has been infringed."
+      },
+      {
+        "type": "p",
+        "text": "9.4.2. A description of the allegedly infringing Content and sufficient information to enable POPLI to locate it on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "9.4.3. Your contact information, including your name, address, telephone number, and email address."
+      },
+      {
+        "type": "p",
+        "text": "9.4.4. A statement that you have a good faith belief that the use of the Content is not authorized by the owner, its agent, or the law."
+      },
+      {
+        "type": "p",
+        "text": "9.4.5. A statement, under penalty of perjury, that the information in your complaint is accurate and that you are the owner of the intellectual property right or authorized to act on behalf of the owner."
+      },
+      {
+        "type": "p",
+        "text": "9.4.6. Your physical or electronic signature."
+      },
+      {
+        "type": "p",
+        "text": "9.5. POPLI shall review all valid complaints and may, in its discretion, remove or disable access to the allegedly infringing Content, suspend or terminate the accounts of repeat infringers, and take other appropriate action in accordance with applicable law."
+      },
+      {
+        "type": "p",
+        "text": "9.6. If you believe that your Content was removed or disabled as a result of a mistaken or false complaint, you may submit a counter-notification to POPLI in accordance with applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "10. COMMUNITY STANDARDS"
+      },
+      {
+        "type": "p",
+        "text": "10.1. POPLI is committed to fostering a safe, respectful, and inclusive community. All Users must comply with the Community Standards set forth in this Section and the POPLI Community Guidelines."
+      },
+      {
+        "type": "p",
+        "text": "10.2. Without limiting the foregoing, you agree not to upload, post, share, or engage in any activity involving Content or conduct that:"
+      },
+      {
+        "type": "p",
+        "text": "10.2.1. Is illegal, unlawful, or promotes illegal activities under any applicable law, including but not limited to drug use, human trafficking, terrorism, and fraud."
+      },
+      {
+        "type": "p",
+        "text": "10.2.2. Harasses, threatens, intimidates, bullies, or abuses any individual or group, or encourages others to do so."
+      },
+      {
+        "type": "p",
+        "text": "10.2.3. Promotes hate speech, discrimination, or abuse based on race, ethnicity, national origin, religion, caste, gender, gender identity, sexual orientation, disability, age, or any other protected characteristic."
+      },
+      {
+        "type": "p",
+        "text": "10.2.4. Depicts, promotes, or facilitates sexual exploitation, sexual abuse, or any non-consensual sexual content, including child sexual abuse material, non-consensual intimate content, and any other content that exploits minors."
+      },
+      {
+        "type": "p",
+        "text": "10.2.5. Depicts or promote graphic violence, gore, cruelty, or dangerous activities that may cause harm to individuals or animals."
+      },
+      {
+        "type": "p",
+        "text": "10.2.6. Constitutes fraud, scams, phishing, or any other deceptive or misleading activity."
+      },
+      {
+        "type": "p",
+        "text": "10.2.7. Constitutes spam, including but not limited to repetitive, unwanted, or unsolicited messages, content, or solicitations."
+      },
+      {
+        "type": "p",
+        "text": "10.2.8. Impersonates any person or entity, including POPLI employees, public figures, or other Users, or falsely states or misrepresents your affiliation with any person or entity."
+      },
+      {
+        "type": "p",
+        "text": "10.2.9. Violates any individual's privacy rights, including sharing personal information without consent (doxxing)."
+      },
+      {
+        "type": "p",
+        "text": "10.2.10. Violates any intellectual property rights, including copyright, trademark, patent, or trade secret rights."
+      },
+      {
+        "type": "p",
+        "text": "10.2.11. Manipulates engagement metrics, including views, likes, comments, shares, or followers, through fraudulent or artificial means."
+      },
+      {
+        "type": "p",
+        "text": "10.2.12. Contains malicious software, viruses, worms, trojan horses, or any other harmful code."
+      },
+      {
+        "type": "p",
+        "text": "10.2.13. Promotes, facilitates, or facilitates access to illegal goods, services, or activities."
+      },
+      {
+        "type": "p",
+        "text": "10.2.14. Is otherwise unlawful, harmful, offensive, or inappropriate as determined by POPLI in its reasonable discretion."
+      },
+      {
+        "type": "p",
+        "text": "10.3. You agree to interact with other Users in a respectful and courteous manner. You shall not engage in any conduct that is intended to harass, annoy, or intimidate other Users."
+      },
+      {
+        "type": "p",
+        "text": "10.4. POPLI reserves the right to update, modify, or amend the Community Standards and Community Guidelines at any time. Continued use of the Platform constitutes your acceptance of any such changes."
+      },
+      {
+        "type": "h2",
+        "text": "11. CONTENT MODERATION"
+      },
+      {
+        "type": "p",
+        "text": "11.1. POPLI reserves the right, but does not assume the obligation, to review, monitor, and moderate User Content and activity on the Platform in accordance with applicable law and these Terms."
+      },
+      {
+        "type": "p",
+        "text": "11.2. POPLI may employ automated systems, including artificial intelligence and machine learning technologies, as well as human moderators, to assist in content moderation. You acknowledge that such systems are not perfect and may not identify all violations."
+      },
+      {
+        "type": "p",
+        "text": "11.3. POPLI may, in its sole discretion and without liability to you:"
+      },
+      {
+        "type": "p",
+        "text": "11.3.1. Review User Content for compliance with these Terms, Community Guidelines, and applicable law."
+      },
+      {
+        "type": "p",
+        "text": "11.3.2. Restrict the reach, visibility, or discoverability of any User Content."
+      },
+      {
+        "type": "p",
+        "text": "11.3.3. Apply warning labels, age restrictions, or other informational notices to User Content."
+      },
+      {
+        "type": "p",
+        "text": "11.3.4. Remove, disable access to, or delete any User Content."
+      },
+      {
+        "type": "p",
+        "text": "11.3.5. Disable, restrict, or limit certain features or functionalities for specific Users."
+      },
+      {
+        "type": "p",
+        "text": "11.3.6. Suspend or terminate any Account, with or without notice."
+      },
+      {
+        "type": "p",
+        "text": "11.3.7. Preserve and disclose User Content and account information when required by applicable law, legal process, or governmental request."
+      },
+      {
+        "type": "p",
+        "text": "11.3.8. Respond to lawful requests from government authorities, courts, or law enforcement agencies."
+      },
+      {
+        "type": "p",
+        "text": "11.4. POPLI does not guarantee that it will review all User Content or that it will detect or remove all content that violates these Terms. POPLI makes no representations or warranties about the accuracy, completeness, or effectiveness of its content moderation systems."
+      },
+      {
+        "type": "p",
+        "text": "11.5. POPLI complies with applicable laws and regulations, including the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, and other relevant laws, regarding content moderation, grievance redressal, and reporting obligations."
+      },
+      {
+        "type": "h2",
+        "text": "12. REPORTING CONTENT AND USERS"
+      },
+      {
+        "type": "p",
+        "text": "12.1. POPLI encourages Users to report any Content or User behaviour that violates these Terms, the Community Guidelines, or applicable law. Reports may be submitted through the reporting mechanisms available on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "12.2. When submitting a report, you agree to provide accurate and complete information, including:"
+      },
+      {
+        "type": "p",
+        "text": "12.2.1. A description of the reported Content or behaviour."
+      },
+      {
+        "type": "p",
+        "text": "12.2.2. Sufficient information to enable POPLI to locate the reported Content, such as the URL or username."
+      },
+      {
+        "type": "p",
+        "text": "12.2.3. The basis for the report, including which Term or Community Guideline has been violated."
+      },
+      {
+        "type": "p",
+        "text": "12.2.4. Your contact information, if necessary for further investigation."
+      },
+      {
+        "type": "p",
+        "text": "12.3. You agree not to submit false, frivolous, or vexatious reports. Submitting false reports may result in the suspension or termination of your Account and may subject you to legal liability."
+      },
+      {
+        "type": "p",
+        "text": "12.4. Upon receipt of a report, POPLI shall review the reported Content or conduct in accordance with its procedures and applicable law. POPLI shall take appropriate action, which may include removal of Content, restriction of features, suspension of accounts, or other measures as determined by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "12.5. POPLI may, in its discretion, provide an appeals mechanism for Users who believe their Content or Account has been subject to erroneous moderation action. Information about the appeals process, if available, will be provided through the Platform."
+      },
+      {
+        "type": "p",
+        "text": "12.6. POPLI shall act in accordance with applicable laws and regulations, including the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021, with respect to the handling of reports and grievances."
+      },
+      {
+        "type": "h2",
+        "text": "13. CREATOR PROGRAMME"
+      },
+      {
+        "type": "p",
+        "text": "13.1. The POPLI Creator Programme is a monetization programme that enables eligible Creators to earn Earnings from their Content on the Platform. Participation in the Creator Programme is by invitation or application, subject to acceptance by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "13.2. Monetization is not automatically available to every User. You must meet the eligibility requirements set forth in these Terms and the Creator Programme Terms to participate in the Creator Programme."
+      },
+      {
+        "type": "p",
+        "text": "13.3. Eligibility criteria for the Creator Programme may include, but are not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "13.3.1. Age requirements. Creators must be at least [MINIMUM AGE REQUIREMENT FOR CREATORS - TO BE CONFIRMED BY LEGAL COUNSEL] years of age."
+      },
+      {
+        "type": "p",
+        "text": "13.3.2. Location. Creators may be required to be located in India or other specified territories."
+      },
+      {
+        "type": "p",
+        "text": "13.3.3. Account standing. The Creator's Account must be in good standing, with no history of serious or repeated violations of these Terms or the Community Guidelines."
+      },
+      {
+        "type": "p",
+        "text": "13.3.4. Original content. Creators must produce and upload original Content that does not infringe the rights of third parties."
+      },
+      {
+        "type": "p",
+        "text": "13.3.5. Authentic engagement. Creators must maintain authentic engagement on their Content and must not engage in Invalid Activity."
+      },
+      {
+        "type": "p",
+        "text": "13.3.6. Identity verification. Creators must complete identity verification procedures, including Know Your Customer (KYC) checks."
+      },
+      {
+        "type": "p",
+        "text": "13.3.7. Tax information. Creators must provide accurate tax information and comply with applicable tax requirements."
+      },
+      {
+        "type": "p",
+        "text": "13.3.8. Minimum performance requirements. Creators must meet minimum performance requirements, including a minimum number of followers, views, or engagement metrics, as specified by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "13.3.9. Compliance. Creators must comply with these Terms, the Community Guidelines, the Creator Programme Terms, and all applicable laws and regulations."
+      },
+      {
+        "type": "p",
+        "text": "13.4. Meeting the eligibility criteria does not guarantee admission to the Creator Programme. POPLI retains sole discretion in determining which Users are accepted into the Creator Programme. Acceptance is confirmed only upon receipt of an explicit communication from POPLI."
+      },
+      {
+        "type": "p",
+        "text": "13.5. POPLI may introduce, modify, restrict, suspend, or discontinue the Creator Programme at any time, subject to applicable law. POPLI may also modify the eligibility criteria, programme terms, earning rates, or other programme features at any time."
+      },
+      {
+        "type": "p",
+        "text": "13.6. Creators must comply with all applicable laws, including but not limited to tax laws, advertising laws, and intellectual property laws, in connection with their participation in the Creator Programme and their Earnings."
+      },
+      {
+        "type": "p",
+        "text": "13.7. Creators are responsible for ensuring that their Content does not contain any third-party intellectual property rights, including music, images, or video clips, unless they have obtained all necessary rights, licences, and permissions."
+      },
+      {
+        "type": "h2",
+        "text": "14. VIEW-BASED EARNINGS"
+      },
+      {
+        "type": "p",
+        "text": "14.1. Creators may be eligible to earn Earnings based on views of their Content, subject to the terms of the Creator Programme and these Terms."
+      },
+      {
+        "type": "p",
+        "text": "14.2. Displayed View Count. The view count displayed on the Platform represents the total number of views of your Content, as calculated by POPLI's systems. A displayed view count does not, by itself, indicate that every displayed view is eligible to generate Earnings."
+      },
+      {
+        "type": "p",
+        "text": "14.3. Eligible Views. Only views that meet all of the criteria established by POPLI for monetization shall constitute Eligible Views and generate Earnings. POPLI may evaluate the following factors, among others, in determining whether a view is an Eligible View:"
+      },
+      {
+        "type": "p",
+        "text": "14.3.1. Genuine human activity. The view must be generated by a genuine human User and not by bots, scripts, automated systems, or other Invalid Activity."
+      },
+      {
+        "type": "p",
+        "text": "14.3.2. Watch duration. The view must meet minimum watch duration requirements as determined by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "14.3.3. Duplicate or repeated activity. Views from the same User or device may be counted only once or may be limited in accordance with POPLI's policies."
+      },
+      {
+        "type": "p",
+        "text": "14.3.4. Geographic eligibility. The view must originate from a geographic location that is eligible for monetization."
+      },
+      {
+        "type": "p",
+        "text": "14.3.5. Content eligibility. The Content must be eligible for monetization, which may depend on content type, suitability, and compliance with policies."
+      },
+      {
+        "type": "p",
+        "text": "14.3.6. Account eligibility. Both the Creator's Account and the viewing User's Account must be in good standing and free from violations."
+      },
+      {
+        "type": "p",
+        "text": "14.3.7. Fraud signals. The view must not be associated with any fraud signals or Invalid Activity."
+      },
+      {
+        "type": "p",
+        "text": "14.3.8. Traffic source. The view must originate from legitimate traffic sources and not from paid, incentivized, or otherwise invalid sources."
+      },
+      {
+        "type": "p",
+        "text": "14.3.9. Advertiser or campaign requirements. Views may be subject to additional requirements for specific monetization campaigns or advertiser arrangements."
+      },
+      {
+        "type": "p",
+        "text": "14.3.10. Platform monetization rules. The view must comply with all other rules, policies, and procedures established by POPLI for monetization."
+      },
+      {
+        "type": "p",
+        "text": "14.4. POPLI does not guarantee any fixed amount per view, and the earning rate may vary based on factors including but not limited to the Creator's eligibility, Content type, geographic location, advertiser demand, Platform policies, and programme terms."
+      },
+      {
+        "type": "p",
+        "text": "14.5. The earning formulas, rates, eligibility conditions, or programme structures may be separately communicated through the Creator Programme interface, dashboard, programme terms, or other official POPLI communications. Creators are responsible for reviewing all such communications."
+      },
+      {
+        "type": "p",
+        "text": "14.6. POPLI reserves the right to change the basis for calculating Earnings, including but not limited to the factors considered for Eligible Views, the earning rates, and the method of calculation, at any time."
+      },
+      {
+        "type": "h2",
+        "text": "15. INVALID AND ARTIFICIAL VIEWS"
+      },
+      {
+        "type": "p",
+        "text": "15.1. POPLI strictly prohibits any form of Invalid Activity. Invalid Activity includes, but is not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "15.1.1. Use of bots, scripts, automated software, or any other non-human methods to generate views, likes, comments, shares, followers, or any other engagement metric."
+      },
+      {
+        "type": "p",
+        "text": "15.1.2. Click farms, view farms, engagement exchanges, or any other services that artificially inflate engagement."
+      },
+      {
+        "type": "p",
+        "text": "15.1.3. Purchased views, likes, comments, shares, followers, or any other engagement metric."
+      },
+      {
+        "type": "p",
+        "text": "15.1.4. Self-view manipulation, including repeatedly viewing your own Content through multiple accounts, devices, or sessions."
+      },
+      {
+        "type": "p",
+        "text": "15.1.5. Use of device farms, emulators, virtual machines, or any other technology to simulate multiple Users or devices."
+      },
+      {
+        "type": "p",
+        "text": "15.1.6. Repeated artificial refreshing or reloading of Content to increase view counts."
+      },
+      {
+        "type": "p",
+        "text": "15.1.7. Coordinated manipulation, including groups of Users working together to artificially inflate engagement."
+      },
+      {
+        "type": "p",
+        "text": "15.1.8. Incentivized fake engagement, including offering rewards or incentives to other Users for generating engagement."
+      },
+      {
+        "type": "p",
+        "text": "15.1.9. Fraudulent traffic, including traffic generated through paid redirects, pop-unders, or other deceptive methods."
+      },
+      {
+        "type": "p",
+        "text": "15.1.10. Automated accounts, including accounts created and operated by bots or automated systems."
+      },
+      {
+        "type": "p",
+        "text": "15.1.11. Exploitation of platform vulnerabilities, including using any bug, vulnerability, or unintended feature of the Platform to manipulate metrics."
+      },
+      {
+        "type": "p",
+        "text": "15.1.12. Attempts to bypass or evade fraud detection systems, including using VPNs, proxies, or other methods to conceal geographic location or device identity."
+      },
+      {
+        "type": "p",
+        "text": "15.1.13. Any other activity that artificially inflates, manipulates, or distorts any metric on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "15.2. Consequences of Invalid Activity. If POPLI determines, in its sole discretion, that you have engaged in or benefited from Invalid Activity, POPLI may take any of the following actions, without limitation:"
+      },
+      {
+        "type": "p",
+        "text": "15.2.1. Exclude some or all views, likes, comments, shares, or other engagement from being counted or considered for monetization."
+      },
+      {
+        "type": "p",
+        "text": "15.2.2. Withhold some or all Earnings, Rewards, or other benefits."
+      },
+      {
+        "type": "p",
+        "text": "15.2.3. Adjust, reverse, or claw back some or all Earnings, Rewards, or other benefits."
+      },
+      {
+        "type": "p",
+        "text": "15.2.4. Reverse, cancel, or invalidate Rewards, Coins, or Virtual Gifts."
+      },
+      {
+        "type": "p",
+        "text": "15.2.5. Conduct an investigation into your Account and Content."
+      },
+      {
+        "type": "p",
+        "text": "15.2.6. Suspend or terminate your participation in the Creator Programme."
+      },
+      {
+        "type": "p",
+        "text": "15.2.7. Suspend or terminate your Account, with or without notice."
+      },
+      {
+        "type": "p",
+        "text": "15.2.8. Recover or set off any amounts improperly credited or paid to you, where legally permissible."
+      },
+      {
+        "type": "p",
+        "text": "15.2.9. Report your activities to law enforcement or regulatory authorities."
+      },
+      {
+        "type": "p",
+        "text": "15.3. POPLI uses automated fraud detection systems to identify Invalid Activity. In the event of suspected Invalid Activity, POPLI reserves the right to withhold payment pending investigation. POPLI shall use reasonable efforts to complete its investigation in a timely manner."
+      },
+      {
+        "type": "p",
+        "text": "15.4. Safeguards. POPLI acknowledges that there may be instances where a legitimate Creator receives unusual traffic that could be falsely flagged as Invalid Activity. In such cases:"
+      },
+      {
+        "type": "p",
+        "text": "15.4.1. POPLI shall not automatically presume that the Creator engaged in Invalid Activity merely because unusual traffic occurred."
+      },
+      {
+        "type": "p",
+        "text": "15.4.2. POPLI shall consider additional information, including the Creator's history of compliance, the nature of the traffic, and the Creator's explanation."
+      },
+      {
+        "type": "p",
+        "text": "15.4.3. Creators may request a review of any adverse determination by contacting POPLI through the mechanisms provided on the Platform. POPLI shall review such requests in good faith."
+      },
+      {
+        "type": "p",
+        "text": "15.5. Notwithstanding the foregoing, POPLI reserves the right to take appropriate action based on its reasonable assessment of the facts and evidence."
+      },
+      {
+        "type": "h2",
+        "text": "16. CREATOR EARNINGS"
+      },
+      {
+        "type": "p",
+        "text": "16.1. Earnings displayed in the Creator dashboard, including any estimates of accrued Earnings, are provisional and represent estimated amounts only. Such amounts may be subject to change, adjustment, or reversal."
+      },
+      {
+        "type": "p",
+        "text": "16.2. Validation. Earnings are subject to validation by POPLI before they become payable. POPLI may validate Earnings for compliance with these Terms, the Creator Programme Terms, and all applicable policies. Validation may occur before, during, or after the payment processing period."
+      },
+      {
+        "type": "p",
+        "text": "16.3. Adjustments. POPLI reserves the right to adjust Earnings at any time to account for:"
+      },
+      {
+        "type": "p",
+        "text": "16.3.1. Invalid Activity, as described in Section 15."
+      },
+      {
+        "type": "p",
+        "text": "16.3.2. Errors in calculation or reporting."
+      },
+      {
+        "type": "p",
+        "text": "16.3.3. Chargebacks, reversals, or refunds related to Virtual Gifts or other transactions."
+      },
+      {
+        "type": "p",
+        "text": "16.3.4. Compliance with applicable law or regulatory requirements."
+      },
+      {
+        "type": "p",
+        "text": "16.3.5. Any other reason provided for in these Terms, the Creator Programme Terms, or applicable policies."
+      },
+      {
+        "type": "p",
+        "text": "16.4. No Guarantee of Earnings. POPLI does not guarantee that any Creator will earn any specific amount or any amount at all. Earnings depend on many factors, including Content quality, audience engagement, programme availability, and compliance with policies."
+      },
+      {
+        "type": "p",
+        "text": "16.5. Programme Availability. The Creator Programme may be modified, suspended, or discontinued at any time. POPLI shall use reasonable efforts to provide notice of any material changes, but reserves the right to make changes without notice in exceptional circumstances."
+      },
+      {
+        "type": "p",
+        "text": "16.6. Monetization may depend on continued eligibility. If a Creator ceases to meet the eligibility criteria, their participation in the Creator Programme may be suspended or terminated, and Earnings may be adjusted accordingly."
+      },
+      {
+        "type": "p",
+        "text": "16.7. The figures displayed in the Creator dashboard may differ from the final payable amounts after validation, adjustments, and deductions. You acknowledge that the dashboard displays estimates only and does not constitute a guarantee of payment."
+      },
+      {
+        "type": "h2",
+        "text": "17. PAYOUTS AND WITHDRAWALS"
+      },
+      {
+        "type": "p",
+        "text": "17.1. Creators who have accrued valid Earnings may be eligible to withdraw such Earnings, subject to the following conditions and requirements."
+      },
+      {
+        "type": "p",
+        "text": "17.2. Minimum Withdrawal Threshold. Withdrawals are subject to a minimum withdrawal threshold of [MINIMUM WITHDRAWAL THRESHOLD]. If your accrued Earnings are below this threshold, they shall be carried forward to subsequent payment cycles until the threshold is met."
+      },
+      {
+        "type": "p",
+        "text": "17.3. Identity Verification and KYC. Before any payout can be processed, you must complete identity verification and Know Your Customer (KYC) procedures as required by POPLI. You agree to provide all necessary documentation, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "17.3.1. Proof of identity, such as a government-issued identification document."
+      },
+      {
+        "type": "p",
+        "text": "17.3.2. Proof of address."
+      },
+      {
+        "type": "p",
+        "text": "17.3.3. Tax identification or PAN card information."
+      },
+      {
+        "type": "p",
+        "text": "17.3.4. Bank account or UPI details for payment."
+      },
+      {
+        "type": "p",
+        "text": "17.3.5. Any other information reasonably requested by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "17.4. Payment Methods. Payouts shall be made through the payment methods supported by POPLI, which may include bank transfers, UPI transfers, or other methods determined by POPLI. You are responsible for providing accurate and complete payment details."
+      },
+      {
+        "type": "p",
+        "text": "17.5. Processing Period. Payouts shall be processed in accordance with the payment processing period established by POPLI, which is currently [PAYMENT PROCESSING PERIOD]. Processing times may vary depending on the payment method, verification status, and other factors."
+      },
+      {
+        "type": "p",
+        "text": "17.6. Failed Payments. If a payment fails due to incorrect or incomplete payment information, or due to any other reason, POPLI shall use reasonable efforts to contact you to resolve the issue. You are responsible for ensuring that your payment information is accurate and up-to-date."
+      },
+      {
+        "type": "p",
+        "text": "17.7. Holds. POPLI reserves the right to hold or delay payments in cases of:"
+      },
+      {
+        "type": "p",
+        "text": "17.7.1. Suspected Invalid Activity or fraud."
+      },
+      {
+        "type": "p",
+        "text": "17.7.2. Pending investigations or disputes."
+      },
+      {
+        "type": "p",
+        "text": "17.7.3. Compliance with legal or regulatory requirements."
+      },
+      {
+        "type": "p",
+        "text": "17.7.4. Verification or KYC requirements that have not been completed."
+      },
+      {
+        "type": "p",
+        "text": "17.7.5. Any other reason provided for in these Terms."
+      },
+      {
+        "type": "p",
+        "text": "17.8. Unclaimed Balances. If you fail to claim or withdraw your Earnings within a reasonable period, or if we are unable to contact you using the contact information you have provided, your Earnings may be forfeited or held in accordance with applicable law and POPLI's policies."
+      },
+      {
+        "type": "p",
+        "text": "17.9. Account Closure. Upon closure of your Account, any accrued but unwithdrawn Earnings that are not subject to adjustment or reversal shall be paid to you, provided that you have completed all verification requirements and the payment complies with applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "18. TAXES"
+      },
+      {
+        "type": "p",
+        "text": "18.1. You are solely responsible for all taxes, duties, and other charges that may be applicable to your Earnings, Rewards, or other benefits received from POPLI. POPLI does not provide tax advice, and you should consult your own tax advisor regarding the tax treatment of your Earnings."
+      },
+      {
+        "type": "p",
+        "text": "18.2. POPLI may be required by applicable law to deduct, withhold, or report taxes, including but not limited to tax deducted at source (TDS), in connection with payments made to you. Any such deductions, withholdings, or reporting shall be in accordance with applicable law."
+      },
+      {
+        "type": "p",
+        "text": "18.3. The rates and basis for any tax deduction or withholding shall be determined in accordance with applicable law and may vary depending on your tax status, location, and other factors. [NOTE: The actual TDS rate, if any, shall be applied as per the applicable provisions of the Income Tax Act, 1961 and other relevant tax laws at the time of payment.]"
+      },
+      {
+        "type": "p",
+        "text": "18.4. You agree to provide accurate tax information, including your PAN card number, tax identification number, or other required documentation, to enable POPLI to comply with its tax obligations. Failure to provide such information may result in the suspension of payments or withholding of taxes at the highest applicable rate."
+      },
+      {
+        "type": "p",
+        "text": "18.5. POPLI shall provide you with such tax reports, certificates, or other documentation as may be required by applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "19. VIRTUAL COINS"
+      },
+      {
+        "type": "p",
+        "text": "19.1. POPLI may offer Virtual Coins (\"Coins\") as a virtual, platform-based item that Users may acquire and use within the Platform for permitted activities."
+      },
+      {
+        "type": "p",
+        "text": "19.2. Coins are not legal tender, cryptocurrency, or any form of currency. They have no intrinsic value outside the Platform and cannot be exchanged for fiat currency, cryptocurrency, or any other form of money except as expressly provided by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "19.3. Coins may be acquired through:"
+      },
+      {
+        "type": "p",
+        "text": "19.3.1. Purchase through supported payment methods, subject to applicable pricing and fees."
+      },
+      {
+        "type": "p",
+        "text": "19.3.2. Rewards from promotional activities, challenges, campaigns, or referral programmes."
+      },
+      {
+        "type": "p",
+        "text": "19.3.3. Any other method offered by POPLI from time to time."
+      },
+      {
+        "type": "p",
+        "text": "19.4. Coins may be used for:"
+      },
+      {
+        "type": "p",
+        "text": "19.4.1. Sending Virtual Gifts to Creators."
+      },
+      {
+        "type": "p",
+        "text": "19.4.2. Participating in certain Challenges or Campaigns."
+      },
+      {
+        "type": "p",
+        "text": "19.4.3. Accessing or unlocking certain features or content."
+      },
+      {
+        "type": "p",
+        "text": "19.4.4. Any other permitted use as determined by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "19.5. Restrictions on Coins:"
+      },
+      {
+        "type": "p",
+        "text": "19.5.1. Coins are non-refundable except where required by applicable law."
+      },
+      {
+        "type": "p",
+        "text": "19.5.2. Coins are non-transferable and may not be sold, exchanged, bartered, or otherwise transferred to any third party outside the Platform."
+      },
+      {
+        "type": "p",
+        "text": "19.5.3. Coins shall not be used for any unlawful or prohibited purpose."
+      },
+      {
+        "type": "p",
+        "text": "19.5.4. Coins may expire or be forfeited in accordance with POPLI's policies and applicable law."
+      },
+      {
+        "type": "p",
+        "text": "19.6. POPLI reserves the right to modify the pricing, availability, redemption, or features of Coins at any time."
+      },
+      {
+        "type": "p",
+        "text": "19.7. Fraud Prevention. POPLI may investigate any suspected fraud, abuse, or unauthorized activity related to Coins. If POPLI determines that you have engaged in such activity, POPLI may:"
+      },
+      {
+        "type": "p",
+        "text": "19.7.1. Suspend or terminate your Account."
+      },
+      {
+        "type": "p",
+        "text": "19.7.2. Reverse or invalidate transactions involving Coins."
+      },
+      {
+        "type": "p",
+        "text": "19.7.3. Withhold or seize Coins."
+      },
+      {
+        "type": "p",
+        "text": "19.7.4. Take any other action provided for in these Terms or applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "20. VIRTUAL GIFTS"
+      },
+      {
+        "type": "p",
+        "text": "20.1. Users may send Virtual Gifts to Creators on the Platform, subject to the availability of this feature and the terms set forth in this Section."
+      },
+      {
+        "type": "p",
+        "text": "20.2. Sending Gifts. To send a Virtual Gift, you must have sufficient Coins in your Account. The value of the Gift shall be deducted from your Coin balance at the time the Gift is sent."
+      },
+      {
+        "type": "p",
+        "text": "20.3. Receiving Gifts. Creators may receive Virtual Gifts from Users. Receipt of Virtual Gifts does not automatically entitle the Creator to Earnings. The Creator must be eligible to participate in the Creator Programme and meet all applicable requirements for Gifts to be converted to Earnings."
+      },
+      {
+        "type": "p",
+        "text": "20.4. Conversion Rules. Virtual Gifts may be converted to Earnings for Creators, subject to:"
+      },
+      {
+        "type": "p",
+        "text": "20.4.1. The Creator's eligibility in the Creator Programme."
+      },
+      {
+        "type": "p",
+        "text": "20.4.2. The conversion rate established by POPLI, which is currently [COIN TO GIFT CONVERSION RATE - TO BE SPECIFIED BY POPLI]."
+      },
+      {
+        "type": "p",
+        "text": "20.4.3. Applicable platform fees, which are currently [PLATFORM FEE PERCENTAGE - TO BE SPECIFIED BY POPLI]."
+      },
+      {
+        "type": "p",
+        "text": "20.4.4. Any other conditions or limitations established by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "20.5. Fraudulent Gifting. POPLI strictly prohibits fraudulent gifting activity, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "20.5.1. Sending Gifts from accounts created for the purpose of artificially inflating a Creator's Earnings."
+      },
+      {
+        "type": "p",
+        "text": "20.5.2. Using stolen, fraudulent, or unauthorized payment methods to acquire Coins for Gifts."
+      },
+      {
+        "type": "p",
+        "text": "20.5.3. Coordinated schemes to manipulate Gift transactions."
+      },
+      {
+        "type": "p",
+        "text": "20.5.4. Any other activity intended to abuse the Virtual Gift system."
+      },
+      {
+        "type": "p",
+        "text": "20.6. Chargebacks and Reversals. If a transaction used to acquire Coins or send Gifts is reversed, charged back, or otherwise invalidated, POPLI reserves the right to:"
+      },
+      {
+        "type": "p",
+        "text": "20.6.1. Reverse the corresponding Gift transaction."
+      },
+      {
+        "type": "p",
+        "text": "20.6.2. Adjust or reverse the Creator's Earnings."
+      },
+      {
+        "type": "p",
+        "text": "20.6.3. Recover any amounts improperly credited."
+      },
+      {
+        "type": "p",
+        "text": "20.6.4. Suspend or terminate the accounts involved."
+      },
+      {
+        "type": "p",
+        "text": "20.7. Gift Availability. POPLI reserves the right to modify, suspend, or discontinue the Virtual Gift feature at any time. Creators shall not have any expectation of receiving Gifts, and POPLI does not guarantee that any Creator will receive Gifts or generate Earnings from Gifts."
+      },
+      {
+        "type": "h2",
+        "text": "21. CHALLENGES"
+      },
+      {
+        "type": "p",
+        "text": "21.1. POPLI may organize or host Challenges on the Platform, which may be open to Users who meet the eligibility criteria specified for each Challenge."
+      },
+      {
+        "type": "p",
+        "text": "21.2. Challenge-Specific Rules. Each Challenge shall be subject to specific rules, which may include but are not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "21.2.1. Eligibility requirements, including age, location, and account standing."
+      },
+      {
+        "type": "p",
+        "text": "21.2.2. Submission requirements, including content type, format, and originality."
+      },
+      {
+        "type": "p",
+        "text": "21.2.3. Deadlines for submission and completion."
+      },
+      {
+        "type": "p",
+        "text": "21.2.4. Winner selection criteria and process."
+      },
+      {
+        "type": "p",
+        "text": "21.2.5. Rewards and prizes."
+      },
+      {
+        "type": "p",
+        "text": "21.2.6. Disqualification criteria."
+      },
+      {
+        "type": "p",
+        "text": "21.3. By participating in a Challenge, you agree to comply with the applicable Challenge rules. In the event of any conflict between these Terms and the Challenge rules, the Challenge rules shall prevail with respect to the Challenge."
+      },
+      {
+        "type": "p",
+        "text": "21.4. You represent and warrant that your submissions to any Challenge are original, do not infringe third-party rights, and comply with these Terms and the Community Guidelines."
+      },
+      {
+        "type": "p",
+        "text": "21.5. POPLI reserves the right to disqualify any participant for violating the Challenge rules, these Terms, or the Community Guidelines, or for engaging in fraud, cheating, or other prohibited conduct."
+      },
+      {
+        "type": "p",
+        "text": "21.6. Winners shall be selected in accordance with the Challenge rules. All decisions made by POPLI regarding the selection of winners are final and binding."
+      },
+      {
+        "type": "p",
+        "text": "21.7. Rewards may include Coins, prizes, recognition, or other benefits as specified in the Challenge rules. Rewards are subject to the terms and conditions applicable to such rewards."
+      },
+      {
+        "type": "h2",
+        "text": "22. CAMPAIGNS AND BRAND PARTNERSHIPS"
+      },
+      {
+        "type": "p",
+        "text": "22.1. POPLI may host or facilitate Campaigns on the Platform, including sponsored content, branded content, and partnership initiatives with third-party brands and advertisers."
+      },
+      {
+        "type": "p",
+        "text": "22.2. Participation in Campaigns is subject to eligibility and specific terms set forth in the Campaign rules or terms. POPLI reserves the right to select participants for Campaigns in its sole discretion."
+      },
+      {
+        "type": "p",
+        "text": "22.3. Creators participating in Campaigns are responsible for:"
+      },
+      {
+        "type": "p",
+        "text": "22.3.1. Complying with all Campaign-specific terms and requirements."
+      },
+      {
+        "type": "p",
+        "text": "22.3.2. Making appropriate disclosures of sponsored, promotional, or paid content in accordance with applicable laws and advertising standards, including the guidelines of the Advertising Standards Council of India (ASCI)."
+      },
+      {
+        "type": "p",
+        "text": "22.3.3. Ensuring that their Content does not make false, misleading, or unsubstantiated claims."
+      },
+      {
+        "type": "p",
+        "text": "22.3.4. Obtaining all necessary rights, licences, and permissions for Content created in connection with Campaigns."
+      },
+      {
+        "type": "p",
+        "text": "22.4. Creators are solely responsible for their relationships with brands, advertisers, and other third parties in connection with Campaigns. POPLI is not a party to such relationships and shall not be liable for any disputes or issues arising between Creators and third parties."
+      },
+      {
+        "type": "p",
+        "text": "22.5. Payment conditions for Campaigns shall be specified in the Campaign terms and may be separate from the general Creator Programme Earnings. POPLI does not guarantee that participation in Campaigns will result in any payment."
+      },
+      {
+        "type": "p",
+        "text": "22.6. POPLI reserves the right to remove or restrict Campaign-related Content that violates these Terms, the Community Guidelines, or applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "23. REFERRAL PROGRAMMES"
+      },
+      {
+        "type": "p",
+        "text": "23.1. POPLI may, from time to time, offer referral programmes that allow Users to earn Rewards by referring new Users to the Platform. If enabled, the referral programme shall be governed by the terms set forth in this Section and any specific terms communicated through the Platform."
+      },
+      {
+        "type": "p",
+        "text": "23.2. Eligibility for referral programmes shall be determined by POPLI and may include age, location, account standing, and other criteria."
+      },
+      {
+        "type": "p",
+        "text": "23.3. To earn referral Rewards, the referral must be genuine. You must personally know the person you refer, and the referral must not be coerced, incentivized, or otherwise manipulated."
+      },
+      {
+        "type": "p",
+        "text": "23.4. Prohibited Conduct. You shall not:"
+      },
+      {
+        "type": "p",
+        "text": "23.4.1. Create duplicate accounts for the purpose of earning referral Rewards."
+      },
+      {
+        "type": "p",
+        "text": "23.4.2. Engage in self-referrals or refer accounts controlled by you."
+      },
+      {
+        "type": "p",
+        "text": "23.4.3. Use fraudulent or deceptive methods to generate referrals."
+      },
+      {
+        "type": "p",
+        "text": "23.4.4. Spam or otherwise distribute referral links in violation of these Terms."
+      },
+      {
+        "type": "p",
+        "text": "23.5. Referral Rewards shall be subject to validation by POPLI. POPLI reserves the right to reverse or claw back Rewards that were earned through fraudulent or improper conduct."
+      },
+      {
+        "type": "p",
+        "text": "23.6. POPLI may modify, suspend, or terminate any referral programme at any time, with or without notice."
+      },
+      {
+        "type": "h2",
+        "text": "24. ADVERTISING AND SPONSORED CONTENT"
+      },
+      {
+        "type": "p",
+        "text": "24.1. The Platform may include advertising, including display advertisements, sponsored content, branded content, and other promotional materials. POPLI may serve advertisements on or in connection with User Content."
+      },
+      {
+        "type": "p",
+        "text": "24.2. Creators may have the opportunity to participate in paid partnerships, sponsored content, or other advertising-related activities. Creators are solely responsible for:"
+      },
+      {
+        "type": "p",
+        "text": "24.2.1. Complying with all applicable laws, regulations, and advertising standards."
+      },
+      {
+        "type": "p",
+        "text": "24.2.2. Making appropriate disclosures of paid partnerships, sponsorships, and other material connections, in accordance with the guidelines of the Advertising Standards Council of India (ASCI) and other relevant authorities."
+      },
+      {
+        "type": "p",
+        "text": "24.2.3. Ensuring that their advertising or sponsored content does not make false, misleading, or deceptive claims."
+      },
+      {
+        "type": "p",
+        "text": "24.2.4. Obtaining all necessary rights, licences, and permissions for advertising or sponsored content."
+      },
+      {
+        "type": "p",
+        "text": "24.3. Third-party advertisers are responsible for the content of their advertisements. POPLI does not endorse or guarantee the products, services, or claims made in advertisements displayed on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "24.4. POPLI may use personal data to serve personalized advertising in accordance with the Privacy Policy and applicable law. Users may have the ability to opt out of personalized advertising as provided in the Privacy Policy."
+      },
+      {
+        "type": "h2",
+        "text": "25. PROHIBITED PLATFORM ACTIVITIES"
+      },
+      {
+        "type": "p",
+        "text": "25.1. In addition to the restrictions set forth elsewhere in these Terms, you agree not to engage in or facilitate any of the following prohibited activities:"
+      },
+      {
+        "type": "p",
+        "text": "25.1.1. Hacking, attempting to gain unauthorized access to the Platform, its systems, or other Users' accounts."
+      },
+      {
+        "type": "p",
+        "text": "25.1.2. Scraping, harvesting, or extracting data from the Platform through automated or manual means, except where expressly permitted."
+      },
+      {
+        "type": "p",
+        "text": "25.1.3. Using unauthorized APIs, interfaces, or other means to access the Platform or its data."
+      },
+      {
+        "type": "p",
+        "text": "25.1.4. Reverse engineering, decompiling, disassembling, or otherwise attempting to derive the source code of the Platform, except to the extent permitted by applicable law."
+      },
+      {
+        "type": "p",
+        "text": "25.1.5. Creating accounts through automated means, including bots, scripts, or other automated systems."
+      },
+      {
+        "type": "p",
+        "text": "25.1.6. Bypassing or circumventing security measures, including firewalls, authentication systems, and access controls."
+      },
+      {
+        "type": "p",
+        "text": "25.1.7. Uploading, transmitting, or distributing malware, viruses, worms, trojan horses, or other harmful code."
+      },
+      {
+        "type": "p",
+        "text": "25.1.8. Stealing, fraudulently obtaining, or misappropriating credentials, tokens, or other authentication information."
+      },
+      {
+        "type": "p",
+        "text": "25.1.9. Engaging in spamming, including bulk messages, unsolicited communications, or repetitive posts."
+      },
+      {
+        "type": "p",
+        "text": "25.1.10. Engaging in fraud, including payment fraud, identity fraud, or any other deceptive activity."
+      },
+      {
+        "type": "p",
+        "text": "25.1.11. Creating or operating fake accounts, including bot accounts and duplicate accounts."
+      },
+      {
+        "type": "p",
+        "text": "25.1.12. Impersonating any person or entity, including POPLI employees, public figures, or other Users."
+      },
+      {
+        "type": "p",
+        "text": "25.1.13. Manipulating the Platform's algorithms, recommendation systems, or discovery mechanisms through artificial means."
+      },
+      {
+        "type": "p",
+        "text": "25.1.14. Manipulating views, likes, comments, shares, followers, or other metrics through Invalid Activity."
+      },
+      {
+        "type": "p",
+        "text": "25.1.15. Abusing reward systems, including the Creator Programme, referral programmes, and Challenges."
+      },
+      {
+        "type": "p",
+        "text": "25.1.16. Engaging in unauthorized commercial exploitation of the Platform or User Content."
+      },
+      {
+        "type": "p",
+        "text": "25.1.17. Interfering with or disrupting the operation of the Platform or the experience of other Users."
+      },
+      {
+        "type": "p",
+        "text": "25.1.18. Engaging in any activity that violates applicable law, these Terms, or the Community Guidelines."
+      },
+      {
+        "type": "h2",
+        "text": "26. PLATFORM SECURITY"
+      },
+      {
+        "type": "p",
+        "text": "26.1. POPLI implements commercially reasonable security measures to protect the Platform and User data. However, no system can be completely secure, and POPLI does not guarantee that the Platform is 100% secure or free from vulnerabilities."
+      },
+      {
+        "type": "p",
+        "text": "26.2. Users are responsible for:"
+      },
+      {
+        "type": "p",
+        "text": "26.2.1. Maintaining the security of their Account credentials."
+      },
+      {
+        "type": "p",
+        "text": "26.2.2. Using secure devices and networks when accessing the Platform."
+      },
+      {
+        "type": "p",
+        "text": "26.2.3. Reporting any suspected security vulnerabilities or breaches to POPLI promptly."
+      },
+      {
+        "type": "p",
+        "text": "26.3. If you become aware of any unauthorized access to or use of your Account, you must notify POPLI immediately."
+      },
+      {
+        "type": "p",
+        "text": "26.4. POPLI reserves the right to take any action necessary to preserve the security and integrity of the Platform, including but not limited to suspending accounts, restricting access, or implementing additional security measures."
+      },
+      {
+        "type": "h2",
+        "text": "27. THIRD-PARTY SERVICES"
+      },
+      {
+        "type": "p",
+        "text": "27.1. The Platform may contain links to third-party websites, services, or applications, or may integrate with third-party services, including payment providers and cloud service providers."
+      },
+      {
+        "type": "p",
+        "text": "27.2. POPLI does not control, endorse, or assume responsibility for any third-party services, including their content, privacy practices, security, or performance."
+      },
+      {
+        "type": "p",
+        "text": "27.3. Your use of third-party services is governed by the terms and conditions and privacy policies of such third parties. You should review such terms and policies before using any third-party service."
+      },
+      {
+        "type": "p",
+        "text": "27.4. POPLI shall not be liable for any loss or damage arising from your use of third-party services, or from any interactions with third-party service providers."
+      },
+      {
+        "type": "p",
+        "text": "27.5. POPLI uses third-party service providers to host and operate the Platform. POPLI remains responsible for ensuring that such providers comply with applicable legal and regulatory requirements, but POPLI shall not be liable for the acts or omissions of such providers except as provided by law."
+      },
+      {
+        "type": "h2",
+        "text": "28. PRIVACY"
+      },
+      {
+        "type": "p",
+        "text": "28.1. The collection, use, storage, and disclosure of your personal information is governed by the POPLI Privacy Policy, which is incorporated into these Terms by reference."
+      },
+      {
+        "type": "p",
+        "text": "28.2. By using the Platform, you consent to the collection, use, storage, and disclosure of your personal information in accordance with the Privacy Policy."
+      },
+      {
+        "type": "p",
+        "text": "28.3. POPLI processes personal information in accordance with applicable data protection laws, including the Information Technology Act, 2000, the Information Technology (Reasonable Security Practices and Procedures and Sensitive Personal Data or Information) Rules, 2011, and other relevant legislation."
+      },
+      {
+        "type": "p",
+        "text": "28.4. In the event of any conflict between these Terms and the Privacy Policy, the Privacy Policy shall govern with respect to the processing of personal information."
+      },
+      {
+        "type": "h2",
+        "text": "29. ACCOUNT SUSPENSION"
+      },
+      {
+        "type": "p",
+        "text": "29.1. POPLI may suspend or restrict your Account or access to the Platform, in whole or in part, at any time and for any reason, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "29.1.1. Violation of these Terms, the Community Guidelines, or any other applicable policies."
+      },
+      {
+        "type": "p",
+        "text": "29.1.2. Engaging in Invalid Activity or fraudulent conduct."
+      },
+      {
+        "type": "p",
+        "text": "29.1.3. Uploading, posting, or sharing Content that violates applicable law or third-party rights."
+      },
+      {
+        "type": "p",
+        "text": "29.1.4. Conduct that may be harmful to other Users, the Platform, or POPLI's reputation."
+      },
+      {
+        "type": "p",
+        "text": "29.1.5. Failure to complete verification or KYC requirements."
+      },
+      {
+        "type": "p",
+        "text": "29.1.6. Provision of false, inaccurate, or misleading information."
+      },
+      {
+        "type": "p",
+        "text": "29.1.7. Extended periods of inactivity, as determined by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "29.1.8. Compliance with legal or regulatory requirements."
+      },
+      {
+        "type": "p",
+        "text": "29.2. Suspension may be temporary or permanent, and may affect specific features, monetization, or all aspects of the Platform."
+      },
+      {
+        "type": "p",
+        "text": "29.3. During suspension, you may not be able to access your Account, upload Content, generate Earnings, or withdraw funds."
+      },
+      {
+        "type": "p",
+        "text": "29.4. POPLI shall use reasonable efforts to provide notice of suspension, except where such notice would be impractical, unlawful, or would compromise security."
+      },
+      {
+        "type": "p",
+        "text": "29.5. You may request a review of a suspension decision by contacting POPLI through the mechanisms provided on the Platform. POPLI shall consider such requests in good faith."
+      },
+      {
+        "type": "h2",
+        "text": "30. ACCOUNT TERMINATION"
+      },
+      {
+        "type": "p",
+        "text": "30.1. Termination by User. You may terminate your Account at any time by following the account closure procedures provided on the Platform. Upon termination, your Account will be deactivated, and your User Content may be removed in accordance with Section 31."
+      },
+      {
+        "type": "p",
+        "text": "30.2. Termination by POPLI. POPLI may terminate your Account at any time, with or without notice, for any reason, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "30.2.1. Serious or repeated violations of these Terms, the Community Guidelines, or other applicable policies."
+      },
+      {
+        "type": "p",
+        "text": "30.2.2. Engaging in fraud, illegal activity, or conduct that is harmful to the Platform or its Users."
+      },
+      {
+        "type": "p",
+        "text": "30.2.3. Failure to comply with verification, KYC, or other requirements."
+      },
+      {
+        "type": "p",
+        "text": "30.2.4. Extended periods of inactivity."
+      },
+      {
+        "type": "p",
+        "text": "30.2.5. Compliance with legal or regulatory requirements."
+      },
+      {
+        "type": "p",
+        "text": "30.3. Effect on Content. Upon termination, your User Content may be removed from the Platform, subject to the provisions of Section 7.4 regarding backups, legal retention, and shared content."
+      },
+      {
+        "type": "p",
+        "text": "30.4. Effect on Earnings. Upon termination, any accrued but unwithdrawn Earnings that are not subject to adjustment or reversal may be paid to you, provided that you have completed all verification requirements and the payment complies with applicable law. However, POPLI reserves the right to withhold or reverse Earnings in cases of fraud, Invalid Activity, or violation of these Terms."
+      },
+      {
+        "type": "p",
+        "text": "30.5. Pending Investigations. Termination does not affect POPLI's right to continue investigating your conduct, enforce these Terms, or pursue any legal remedies."
+      },
+      {
+        "type": "p",
+        "text": "30.6. Legal Retention. POPLI may retain Account information and User Content as required by applicable law, legal obligations, or regulatory requirements."
+      },
+      {
+        "type": "h2",
+        "text": "31. ACCOUNT DELETION"
+      },
+      {
+        "type": "p",
+        "text": "31.1. You may request deletion of your Account by following the account deletion procedures provided on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "31.2. Upon receiving a valid deletion request, POPLI shall deactivate your Account and initiate the removal of your User Content from the Platform."
+      },
+      {
+        "type": "p",
+        "text": "31.3. Deletion of your Account does not guarantee that all copies of your User Content will be removed:"
+      },
+      {
+        "type": "p",
+        "text": "31.3.1. POPLI may retain backup copies for a reasonable period in accordance with its backup and retention policies."
+      },
+      {
+        "type": "p",
+        "text": "31.3.2. User Content that has been shared, reposted, or otherwise disseminated by other Users may continue to be accessible through their accounts."
+      },
+      {
+        "type": "p",
+        "text": "31.3.3. POPLI may retain User Content as required by applicable law, legal obligations, or regulatory requirements."
+      },
+      {
+        "type": "p",
+        "text": "31.4. Pending Payments. Any accrued but unwithdrawn Earnings that are not subject to adjustment or reversal may be paid to you upon account deletion, subject to completion of verification requirements and compliance with applicable law."
+      },
+      {
+        "type": "p",
+        "text": "31.5. If your Account is under investigation for fraud, Invalid Activity, or violation of these Terms, POPLI may delay the deletion process until the investigation is complete."
+      },
+      {
+        "type": "p",
+        "text": "31.6. The handling of your personal information upon account deletion is governed by the Privacy Policy."
+      },
+      {
+        "type": "h2",
+        "text": "32. PLATFORM AVAILABILITY"
+      },
+      {
+        "type": "p",
+        "text": "32.1. POPLI makes reasonable efforts to ensure that the Platform is available and accessible. However, POPLI does not guarantee that the Platform will be available at all times or without interruption."
+      },
+      {
+        "type": "p",
+        "text": "32.2. The Platform may be temporarily unavailable due to:"
+      },
+      {
+        "type": "p",
+        "text": "32.2.1. Scheduled maintenance or upgrades."
+      },
+      {
+        "type": "p",
+        "text": "32.2.2. Unscheduled outages, technical difficulties, or system failures."
+      },
+      {
+        "type": "p",
+        "text": "32.2.3. Network or internet connectivity issues."
+      },
+      {
+        "type": "p",
+        "text": "32.2.4. Force majeure events or other circumstances beyond POPLI's control."
+      },
+      {
+        "type": "p",
+        "text": "32.3. POPLI may suspend or restrict access to the Platform for maintenance, security, or other operational reasons. POPLI shall use reasonable efforts to provide advance notice of planned maintenance."
+      },
+      {
+        "type": "p",
+        "text": "32.4. POPLI is not liable for any loss, damage, or inconvenience caused by the unavailability or interruption of the Platform."
+      },
+      {
+        "type": "h2",
+        "text": "33. CHANGES TO SERVICES"
+      },
+      {
+        "type": "p",
+        "text": "33.1. POPLI may modify, enhance, introduce, restrict, suspend, or discontinue any feature, service, or functionality of the Platform at any time, subject to applicable law."
+      },
+      {
+        "type": "p",
+        "text": "33.2. Such changes may affect, among other things:"
+      },
+      {
+        "type": "p",
+        "text": "33.2.1. The availability of certain features to specific Users or geographic locations."
+      },
+      {
+        "type": "p",
+        "text": "33.2.2. The functionality and user interface of the Platform."
+      },
+      {
+        "type": "p",
+        "text": "33.2.3. The terms, conditions, or requirements for participating in the Creator Programme or other programmes."
+      },
+      {
+        "type": "p",
+        "text": "33.3. POPLI shall use reasonable efforts to provide notice of material changes to the Services. However, POPLI reserves the right to make changes without notice in exceptional circumstances."
+      },
+      {
+        "type": "p",
+        "text": "33.4. Your continued use of the Platform after any changes constitutes your acceptance of such changes. If you do not agree to the changes, your sole remedy is to stop using the Platform and terminate your Account."
+      },
+      {
+        "type": "h2",
+        "text": "34. DISCLAIMERS"
+      },
+      {
+        "type": "p",
+        "text": "34.1. THE PLATFORM, INCLUDING ALL CONTENT, FEATURES, AND SERVICES, IS PROVIDED ON AN \"AS IS\" AND \"AS AVAILABLE\" BASIS. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, POPLI DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT."
+      },
+      {
+        "type": "p",
+        "text": "34.2. POPLI DOES NOT WARRANT THAT:"
+      },
+      {
+        "type": "p",
+        "text": "34.2.1. The Platform will be uninterrupted, secure, or error-free."
+      },
+      {
+        "type": "p",
+        "text": "34.2.2. The Platform will meet your requirements or expectations."
+      },
+      {
+        "type": "p",
+        "text": "34.2.3. The results obtained from the use of the Platform will be accurate or reliable."
+      },
+      {
+        "type": "p",
+        "text": "34.2.4. Any defects or errors in the Platform will be corrected."
+      },
+      {
+        "type": "p",
+        "text": "34.2.5. The Platform is free from viruses, malware, or other harmful components."
+      },
+      {
+        "type": "p",
+        "text": "34.3. POPLI makes no representations or warranties regarding User Content, including its accuracy, completeness, reliability, or legality. User Content is provided by Users, and POPLI does not endorse or verify any User Content."
+      },
+      {
+        "type": "p",
+        "text": "34.4. POPLI DOES NOT GUARANTEE THAT:"
+      },
+      {
+        "type": "p",
+        "text": "34.4.1. Your Content will receive a certain number of views, likes, comments, shares, or followers."
+      },
+      {
+        "type": "p",
+        "text": "34.4.2. Your Content will become viral or widely distributed."
+      },
+      {
+        "type": "p",
+        "text": "34.4.3. You will achieve any level of popularity, success, or audience growth."
+      },
+      {
+        "type": "p",
+        "text": "34.4.4. You will earn any specific amount of income or any income at all."
+      },
+      {
+        "type": "p",
+        "text": "34.4.5. You will secure any brand deals, sponsorships, or partnerships."
+      },
+      {
+        "type": "p",
+        "text": "34.4.6. Your participation in the Creator Programme or any other programme will result in earnings."
+      },
+      {
+        "type": "p",
+        "text": "34.5. POPLI does not provide any legal, financial, or tax advice. You should consult with qualified professionals for advice specific to your situation."
+      },
+      {
+        "type": "h2",
+        "text": "35. LIMITATION OF LIABILITY"
+      },
+      {
+        "type": "p",
+        "text": "35.1. TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW, POPLI AND ITS OFFICERS, DIRECTORS, EMPLOYEES, AGENTS, AND AFFILIATES SHALL NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF PROFITS, LOSS OF DATA, LOSS OF GOODWILL, OR BUSINESS INTERRUPTION, ARISING OUT OF OR IN CONNECTION WITH YOUR USE OF OR INABILITY TO USE THE PLATFORM."
+      },
+      {
+        "type": "p",
+        "text": "35.2. POPLI'S TOTAL LIABILITY TO YOU FOR ANY CLAIM ARISING OUT OF OR IN CONNECTION WITH THESE TERMS OR YOUR USE OF THE PLATFORM SHALL NOT EXCEED THE GREATER OF:"
+      },
+      {
+        "type": "p",
+        "text": "35.2.1. THE AMOUNT PAID BY YOU TO POPLI, IF ANY, IN THE TWELVE (12) MONTHS PRECEDING THE CLAIM."
+      },
+      {
+        "type": "p",
+        "text": "35.2.2. [TEN THOUSAND INDIAN RUPEES (Rs. 10,000)]."
+      },
+      {
+        "type": "p",
+        "text": "35.3. NOTHING IN THESE TERMS SHALL LIMIT OR EXCLUDE LIABILITY FOR:"
+      },
+      {
+        "type": "p",
+        "text": "35.3.1. DEATH OR PERSONAL INJURY ARISING FROM NEGLIGENCE."
+      },
+      {
+        "type": "p",
+        "text": "35.3.2. FRAUD OR FRAUDULENT MISREPRESENTATION."
+      },
+      {
+        "type": "p",
+        "text": "35.3.3. ANY LIABILITY THAT CANNOT BE EXCLUDED OR LIMITED UNDER APPLICABLE LAW."
+      },
+      {
+        "type": "p",
+        "text": "35.4. THE FOREGOING LIMITATIONS AND EXCLUSIONS SHALL APPLY TO THE FULLEST EXTENT PERMITTED BY APPLICABLE LAW AND SHALL SURVIVE THE TERMINATION OF THESE TERMS."
+      },
+      {
+        "type": "h2",
+        "text": "36. INDEMNITY"
+      },
+      {
+        "type": "p",
+        "text": "36.1. You agree to indemnify, defend, and hold harmless POPLI, its officers, directors, employees, agents, and affiliates from and against any and all claims, liabilities, damages, losses, costs, expenses, and fees (including reasonable attorneys' fees) arising out of or relating to:"
+      },
+      {
+        "type": "p",
+        "text": "36.1.1. Your use of the Platform, including any User Content you upload, post, or share."
+      },
+      {
+        "type": "p",
+        "text": "36.1.2. Your violation of these Terms, the Community Guidelines, or any other applicable policies."
+      },
+      {
+        "type": "p",
+        "text": "36.1.3. Your violation of any applicable law or regulation."
+      },
+      {
+        "type": "p",
+        "text": "36.1.4. Your infringement or violation of any third-party rights, including intellectual property rights, privacy rights, and publicity rights."
+      },
+      {
+        "type": "p",
+        "text": "36.1.5. Your engagement in fraud, Invalid Activity, or other prohibited conduct."
+      },
+      {
+        "type": "p",
+        "text": "36.1.6. Any dispute between you and any third party arising from your use of the Platform."
+      },
+      {
+        "type": "p",
+        "text": "36.2. POPLI reserves the right to assume the exclusive defense and control of any matter subject to indemnification by you, and you agree to cooperate with POPLI in the defense of such claims."
+      },
+      {
+        "type": "p",
+        "text": "36.3. You shall not settle any claim subject to this indemnity without the prior written consent of POPLI."
+      },
+      {
+        "type": "h2",
+        "text": "37. CONSUMER RIGHTS"
+      },
+      {
+        "type": "p",
+        "text": "37.1. Nothing in these Terms shall limit or exclude any rights you may have under applicable consumer protection laws, including the Consumer Protection Act, 2019, and the rules made thereunder, which cannot be excluded or limited by agreement."
+      },
+      {
+        "type": "p",
+        "text": "37.2. If you are a consumer under applicable law, you may have certain rights, including but not limited to the right to:"
+      },
+      {
+        "type": "p",
+        "text": "37.2.1. Receive services that are of reasonable quality and fit for purpose."
+      },
+      {
+        "type": "p",
+        "text": "37.2.2. Seek redress for defective services."
+      },
+      {
+        "type": "p",
+        "text": "37.2.3. Cancel certain transactions within the cooling-off period where applicable."
+      },
+      {
+        "type": "p",
+        "text": "37.2.4. Seek remedies under consumer protection laws."
+      },
+      {
+        "type": "p",
+        "text": "37.3. To the extent that any provision of these Terms is inconsistent with your rights under applicable consumer protection laws, such provision shall be read down to the extent necessary to give effect to your consumer rights."
+      },
+      {
+        "type": "h2",
+        "text": "38. GOVERNING LAW"
+      },
+      {
+        "type": "p",
+        "text": "38.1. These Terms and any dispute arising out of or in connection with these Terms or your use of the Platform shall be governed by and construed in accordance with the laws of India."
+      },
+      {
+        "type": "p",
+        "text": "38.2. Any legal suit, action, or proceeding arising out of or relating to these Terms or the Platform shall be instituted exclusively in the courts of [COURT / JURISDICTION], and you consent to the exclusive jurisdiction of such courts."
+      },
+      {
+        "type": "h2",
+        "text": "39. DISPUTE RESOLUTION"
+      },
+      {
+        "type": "p",
+        "text": "39.1. Disputes. Any dispute, controversy, or claim arising out of or in connection with these Terms, or the breach, termination, or invalidity thereof, shall be resolved in accordance with this Section."
+      },
+      {
+        "type": "p",
+        "text": "39.2. Good Faith Negotiation. The parties shall first attempt to resolve any dispute through good faith negotiations. The party initiating the dispute shall provide written notice to the other party describing the nature of the dispute and the relief sought. The parties shall have [NUMBER OF DAYS - TO BE SPECIFIED BY POPLI] days to resolve the dispute through negotiation."
+      },
+      {
+        "type": "p",
+        "text": "39.3. Arbitration. If the dispute cannot be resolved through negotiation, the dispute shall be referred to and finally resolved by arbitration in accordance with the Arbitration and Conciliation Act, 1996. The arbitration shall be conducted by a sole arbitrator appointed by mutual agreement of the parties, or failing such agreement, by [ARBITRAL INSTITUTION OR APPOINTING AUTHORITY - TO BE SPECIFIED BY POPLI]."
+      },
+      {
+        "type": "p",
+        "text": "39.4. The seat and venue of arbitration shall be [CITY - TO BE SPECIFIED BY POPLI]. The language of the arbitration shall be English."
+      },
+      {
+        "type": "p",
+        "text": "39.5. Exception. Notwithstanding the foregoing, POPLI may seek injunctive or other equitable relief in any court of competent jurisdiction to protect its intellectual property rights, confidential information, or to prevent immediate harm."
+      },
+      {
+        "type": "h2",
+        "text": "40. GRIEVANCE REDRESSAL"
+      },
+      {
+        "type": "p",
+        "text": "40.1. POPLI is committed to addressing any grievances or complaints from Users in accordance with applicable law, including the Information Technology Act, 2000, and the Information Technology (Intermediary Guidelines and Digital Media Ethics Code) Rules, 2021."
+      },
+      {
+        "type": "p",
+        "text": "40.2. If you have any complaint, grievance, or concern regarding the Platform, User Content, or any other matter, you may contact POPLI's designated Grievance Officer:"
+      },
+      {
+        "type": "p",
+        "text": "Grievance Officer: [GRIEVANCE OFFICER NAME]"
+      },
+      {
+        "type": "p",
+        "text": "Email: [GRIEVANCE EMAIL]"
+      },
+      {
+        "type": "p",
+        "text": "Address: [GRIEVANCE ADDRESS]"
+      },
+      {
+        "type": "p",
+        "text": "40.3. The Grievance Officer shall acknowledge receipt of your complaint within the time period required by applicable law and shall endeavor to address the grievance in accordance with applicable law and POPLI's policies."
+      },
+      {
+        "type": "p",
+        "text": "40.4. You are encouraged to provide the following information when submitting a grievance:"
+      },
+      {
+        "type": "p",
+        "text": "40.4.1. Your name, contact information, and any relevant Account details."
+      },
+      {
+        "type": "p",
+        "text": "40.4.2. A clear description of the grievance, including the nature of the complaint and the specific Content or conduct at issue."
+      },
+      {
+        "type": "p",
+        "text": "40.4.3. Any supporting documentation or evidence."
+      },
+      {
+        "type": "p",
+        "text": "40.5. POPLI shall handle all grievances in a fair, transparent, and timely manner, in compliance with applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "41. CHANGES TO TERMS"
+      },
+      {
+        "type": "p",
+        "text": "41.1. POPLI reserves the right to update, modify, or amend these Terms at any time, with or without notice. The most current version of these Terms shall be posted on the Platform, and the \"Last Updated\" date at the top of these Terms shall indicate the effective date of the most recent changes."
+      },
+      {
+        "type": "p",
+        "text": "41.2. POPLI shall use reasonable efforts to notify Users of material changes to these Terms through the Platform, email, or other communication channels. However, you are responsible for regularly reviewing these Terms to stay informed of any changes."
+      },
+      {
+        "type": "p",
+        "text": "41.3. Your continued use of the Platform after the effective date of any changes to these Terms constitutes your acceptance of such changes. If you do not agree to the changes, you must stop using the Platform and terminate your Account."
+      },
+      {
+        "type": "p",
+        "text": "41.4. Any changes to these Terms shall not affect any accrued rights or obligations of the parties arising prior to the effective date of such changes, unless otherwise required by applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "42. SEVERABILITY"
+      },
+      {
+        "type": "p",
+        "text": "42.1. If any provision of these Terms is held to be invalid, illegal, or unenforceable by a court of competent jurisdiction or by any other authority, such provision shall be severed from these Terms, and the remaining provisions shall continue in full force and effect."
+      },
+      {
+        "type": "p",
+        "text": "42.2. The invalid, illegal, or unenforceable provision shall be replaced with a valid, legal, and enforceable provision that, to the extent possible, reflects the original intent of the parties."
+      },
+      {
+        "type": "h2",
+        "text": "43. WAIVER"
+      },
+      {
+        "type": "p",
+        "text": "43.1. No failure or delay on the part of POPLI in exercising any right, power, or privilege under these Terms shall operate as a waiver thereof, nor shall any single or partial exercise of any right, power, or privilege preclude any other or further exercise thereof or the exercise of any other right, power, or privilege."
+      },
+      {
+        "type": "p",
+        "text": "43.2. Any waiver by POPLI of any provision of these Terms must be in writing and signed by an authorized representative of POPLI."
+      },
+      {
+        "type": "h2",
+        "text": "44. ENTIRE AGREEMENT"
+      },
+      {
+        "type": "p",
+        "text": "44.1. These Terms, together with the Privacy Policy, Community Guidelines, Creator Programme Terms, and any other policies or terms expressly incorporated by reference, constitute the entire agreement between you and POPLI regarding your use of the Platform."
+      },
+      {
+        "type": "p",
+        "text": "44.2. These Terms supersede all prior and contemporaneous agreements, understandings, communications, and representations, whether written or oral, regarding your use of the Platform."
+      },
+      {
+        "type": "p",
+        "text": "44.3. In the event of any conflict or inconsistency between these Terms and any other incorporated policies, these Terms shall prevail, except to the extent that such other policies expressly state otherwise."
+      },
+      {
+        "type": "p",
+        "text": "44.4. Additional terms may apply to certain features, services, or programmes offered on the Platform, including but not limited to Challenges, Campaigns, referral programmes, and promotional activities. Such additional terms shall be communicated to you at the time you access or participate in such features, services, or programmes."
+      },
+      {
+        "type": "h2",
+        "text": "45. CONTACT US"
+      },
+      {
+        "type": "p",
+        "text": "If you have any questions, concerns, or feedback regarding these Terms or the Platform, please contact us at:"
+      },
+      {
+        "type": "p",
+        "text": "POPLI"
+      },
+      {
+        "type": "p",
+        "text": "Operated by: [LEGAL ENTITY NAME]"
+      },
+      {
+        "type": "p",
+        "text": "Email: [LEGAL CONTACT EMAIL]"
+      },
+      {
+        "type": "p",
+        "text": "Address: [REGISTERED OFFICE ADDRESS]"
+      },
+      {
+        "type": "p",
+        "text": "For grievances and complaints, please refer to the Grievance Redressal section (Section 40) above."
+      },
+      {
+        "type": "p",
+        "text": "BY USING THE POPLI PLATFORM, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTOOD, AND AGREE TO BE BOUND BY THESE TERMS AND CONDITIONS."
+      }
+    ]
+  },
+  "privacy-policy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "July 7, 2026",
+    "content": [
+      {
+        "type": "h2",
+        "text": "1. INTRODUCTION"
+      },
+      {
+        "type": "p",
+        "text": "1.1. This Privacy Policy explains how [LEGAL ENTITY NAME] (\"POPLI\", \"we\", \"us\", or \"our\") collects, uses, discloses, and safeguards personal information when you access or use the POPLI platform, including the website, mobile application, and all associated services, features, and content (collectively, the \"Platform\")."
+      },
+      {
+        "type": "p",
+        "text": "1.2. This Privacy Policy applies to all Users, Creators, and visitors of the Platform. By using the Platform, you consent to the collection, use, and disclosure of your personal information as described in this Privacy Policy."
+      },
+      {
+        "type": "p",
+        "text": "1.3. This Privacy Policy is incorporated into and forms an integral part of the POPLI Terms and Conditions. Any terms not defined in this Privacy Policy shall have the meanings ascribed to them in the Terms and Conditions."
+      },
+      {
+        "type": "p",
+        "text": "1.4. We encourage you to read this Privacy Policy carefully. If you do not agree with any part of this Privacy Policy, you must not access or use the Platform."
+      },
+      {
+        "type": "h2",
+        "text": "2. DEFINITIONS"
+      },
+      {
+        "type": "p",
+        "text": "2.1. \"Account\" means the user account created by a User on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.2. \"Coins\" means the virtual, platform-based tokens available on POPLI."
+      },
+      {
+        "type": "p",
+        "text": "2.3. \"Content\" means any text, images, graphics, videos, audio, reels, livestreams, comments, captions, profile information, data, or other materials uploaded, posted, shared, or otherwise made available on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.4. \"Creator\" means a User who has been accepted into the POPLI Creator Programme."
+      },
+      {
+        "type": "p",
+        "text": "2.5. \"Creator Programme\" means the monetization programme operated by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "2.6. \"Personal Data\" means any information that relates to an identified or identifiable individual, including but not limited to name, email address, phone number, location data, online identifiers, and other information that can be used to identify a person."
+      },
+      {
+        "type": "p",
+        "text": "2.7. \"Platform\" means the POPLI website, mobile application, and all associated services, features, content, and functionalities provided by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "2.8. \"POPLI\" means [LEGAL ENTITY NAME], the operator of the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.9. \"Processing\" means any operation or set of operations performed on personal data, including collection, recording, organization, storage, adaptation, retrieval, use, disclosure, and erasure."
+      },
+      {
+        "type": "p",
+        "text": "2.10. \"Services\" means all services provided by POPLI through the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.11. \"User\" means any individual or entity that accesses or uses the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.12. \"User Content\" means any Content that a User uploads, posts, shares, or otherwise makes available on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "2.13. \"Virtual Gift\" means a virtual item that a User may send to a Creator on the Platform."
+      },
+      {
+        "type": "h2",
+        "text": "3. SCOPE OF THIS PRIVACY POLICY"
+      },
+      {
+        "type": "p",
+        "text": "3.1. This Privacy Policy applies to all Services provided through the Platform, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- The POPLI mobile application."
+      },
+      {
+        "type": "p",
+        "text": "- The POPLI website."
+      },
+      {
+        "type": "p",
+        "text": "- Creator services and monetization features."
+      },
+      {
+        "type": "p",
+        "text": "- Customer support and grievance redressal."
+      },
+      {
+        "type": "p",
+        "text": "- Challenges, campaigns, and referral programmes."
+      },
+      {
+        "type": "p",
+        "text": "- Any other POPLI services that link to this Privacy Policy."
+      },
+      {
+        "type": "p",
+        "text": "3.2. This Privacy Policy does not apply to third-party websites, services, or applications that may be accessible through the Platform. Such third-party services have their own privacy policies, and we encourage you to review them before providing any personal information."
+      },
+      {
+        "type": "h2",
+        "text": "4. INFORMATION USERS PROVIDE DIRECTLY"
+      },
+      {
+        "type": "p",
+        "text": "4.1. When you create an Account or use the Platform, we may collect information that you provide directly to us, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Your name, username, and display name."
+      },
+      {
+        "type": "p",
+        "text": "- Your email address and mobile phone number."
+      },
+      {
+        "type": "p",
+        "text": "- Your date of birth, where required for eligibility purposes."
+      },
+      {
+        "type": "p",
+        "text": "- Your profile photograph and bio."
+      },
+      {
+        "type": "p",
+        "text": "- Your language preferences."
+      },
+      {
+        "type": "p",
+        "text": "- Your account credentials and password."
+      },
+      {
+        "type": "p",
+        "text": "- OTP or verification information submitted during account creation or authentication."
+      },
+      {
+        "type": "p",
+        "text": "- Any other information you choose to provide in your profile or Account."
+      },
+      {
+        "type": "h2",
+        "text": "5. USER CONTENT"
+      },
+      {
+        "type": "p",
+        "text": "5.1. When you upload, post, share, or otherwise make available User Content on the Platform, we may process the information contained in such Content, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Videos, reels, and photos."
+      },
+      {
+        "type": "p",
+        "text": "- Audio content and recordings."
+      },
+      {
+        "type": "p",
+        "text": "- Captions, comments, and descriptions."
+      },
+      {
+        "type": "p",
+        "text": "- Profile information and updates."
+      },
+      {
+        "type": "p",
+        "text": "- Challenge and campaign submissions."
+      },
+      {
+        "type": "p",
+        "text": "- Any other user-generated content."
+      },
+      {
+        "type": "p",
+        "text": "5.2. The privacy of your User Content depends on your account settings. If you choose to make your Content public, it may be visible to other Users and potentially beyond POPLI depending on sharing functionality."
+      },
+      {
+        "type": "p",
+        "text": "5.3. If you post Content on a public part of the Platform, you should be aware that such Content may be viewed, collected, and used by others, and we are not responsible for the privacy practices of other Users."
+      },
+      {
+        "type": "h2",
+        "text": "6. CONTENT METADATA"
+      },
+      {
+        "type": "p",
+        "text": "6.1. Where applicable, POPLI may process metadata associated with User Content, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Upload time and date."
+      },
+      {
+        "type": "p",
+        "text": "- Content type and file format."
+      },
+      {
+        "type": "p",
+        "text": "- File size and technical information."
+      },
+      {
+        "type": "p",
+        "text": "- Engagement information such as views, likes, and comments."
+      },
+      {
+        "type": "p",
+        "text": "- Content identifiers and technical metadata."
+      },
+      {
+        "type": "h2",
+        "text": "7. USER ACTIVITY AND ENGAGEMENT DATA"
+      },
+      {
+        "type": "p",
+        "text": "7.1. When you interact with the Platform, we may collect information about your activity and engagement, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Videos and reels you watch."
+      },
+      {
+        "type": "p",
+        "text": "- Watch duration and viewing patterns."
+      },
+      {
+        "type": "p",
+        "text": "- Likes, comments, shares, saves, and other interactions."
+      },
+      {
+        "type": "p",
+        "text": "- Accounts you follow."
+      },
+      {
+        "type": "p",
+        "text": "- Search queries and search history."
+      },
+      {
+        "type": "p",
+        "text": "- Profiles you visit."
+      },
+      {
+        "type": "p",
+        "text": "- Challenge and campaign participation."
+      },
+      {
+        "type": "p",
+        "text": "- Referral activity and interactions."
+      },
+      {
+        "type": "p",
+        "text": "- Reporting and moderation activity."
+      },
+      {
+        "type": "p",
+        "text": "7.2. This information is used to operate, personalize, secure, and improve the Platform, including content recommendations and feed personalization."
+      },
+      {
+        "type": "h2",
+        "text": "8. VIEW AND WATCH DATA"
+      },
+      {
+        "type": "p",
+        "text": "8.1. For Creators participating in the Creator Programme, we may process view and watch data to determine eligibility for monetization and calculate Earnings. This may include:"
+      },
+      {
+        "type": "p",
+        "text": "- Whether content was viewed."
+      },
+      {
+        "type": "p",
+        "text": "- Watch duration and completion rates."
+      },
+      {
+        "type": "p",
+        "text": "- Repeat views from the same User."
+      },
+      {
+        "type": "p",
+        "text": "- Interaction signals such as likes and comments."
+      },
+      {
+        "type": "p",
+        "text": "- Traffic source and referral information."
+      },
+      {
+        "type": "p",
+        "text": "- Device and session signals."
+      },
+      {
+        "type": "p",
+        "text": "- Fraud indicators and risk signals."
+      },
+      {
+        "type": "p",
+        "text": "- Eligibility signals for qualifying views."
+      },
+      {
+        "type": "p",
+        "text": "8.2. This information is used for:"
+      },
+      {
+        "type": "p",
+        "text": "- Counting views and calculating engagement metrics."
+      },
+      {
+        "type": "p",
+        "text": "- Content recommendation and discovery systems."
+      },
+      {
+        "type": "p",
+        "text": "- Analytics and performance tracking."
+      },
+      {
+        "type": "p",
+        "text": "- Creator statistics and insights."
+      },
+      {
+        "type": "p",
+        "text": "- Determining qualifying and eligible views for monetization."
+      },
+      {
+        "type": "p",
+        "text": "- Preventing artificial engagement and Invalid Activity."
+      },
+      {
+        "type": "p",
+        "text": "- Calculating creator rewards, Earnings, and payouts where applicable."
+      },
+      {
+        "type": "p",
+        "text": "8.3. POPLI employs automated fraud detection systems to protect the integrity of view-based monetization. Specific detection methods and thresholds are confidential to prevent circumvention."
+      },
+      {
+        "type": "h2",
+        "text": "9. DEVICE AND TECHNICAL INFORMATION"
+      },
+      {
+        "type": "p",
+        "text": "9.1. We may collect technical information about the device you use to access the Platform, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Device type and model."
+      },
+      {
+        "type": "p",
+        "text": "- Operating system and version."
+      },
+      {
+        "type": "p",
+        "text": "- App version and build number."
+      },
+      {
+        "type": "p",
+        "text": "- Browser type and version (for web access)."
+      },
+      {
+        "type": "p",
+        "text": "- IP address."
+      },
+      {
+        "type": "p",
+        "text": "- Device identifiers (where permitted)."
+      },
+      {
+        "type": "p",
+        "text": "- Language and regional settings."
+      },
+      {
+        "type": "p",
+        "text": "- Network information and connectivity status."
+      },
+      {
+        "type": "p",
+        "text": "- Crash reports and diagnostic information."
+      },
+      {
+        "type": "p",
+        "text": "- Log information and session data."
+      },
+      {
+        "type": "h2",
+        "text": "10. LOCATION INFORMATION"
+      },
+      {
+        "type": "p",
+        "text": "10.1. Approximate Location. We may collect approximate location information inferred from your IP address, device settings, or regional preferences. This information is used for regional content recommendations, language preferences, and compliance with geographic restrictions."
+      },
+      {
+        "type": "p",
+        "text": "10.2. Precise Location. POPLI does not currently collect precise GPS location data. If we introduce features that require precise location information, we will request your explicit consent through the device permissions system before collecting such information. You may withdraw your consent at any time through your device settings."
+      },
+      {
+        "type": "p",
+        "text": "10.3. POPLI does not continuously track Users' location in the background."
+      },
+      {
+        "type": "h2",
+        "text": "11. DEVICE PERMISSIONS"
+      },
+      {
+        "type": "p",
+        "text": "11.1. The POPLI mobile application may request access to certain permissions on your device. The following permissions may be requested, depending on the features you choose to use:"
+      },
+      {
+        "type": "p",
+        "text": "- Camera. Used when you choose to record or upload video content, reels, or photos."
+      },
+      {
+        "type": "p",
+        "text": "- Microphone. Used when recording audio for videos, reels, or using features that require audio input."
+      },
+      {
+        "type": "p",
+        "text": "- Photos and Media. Used when you choose to upload photos, videos, or other media from your device."
+      },
+      {
+        "type": "p",
+        "text": "- Storage. Used to save content locally or upload content from your device."
+      },
+      {
+        "type": "p",
+        "text": "- Notifications. Used to provide notifications about account activity, interactions, creator activity, security alerts, and other relevant updates. You may manage notification preferences through your device settings."
+      },
+      {
+        "type": "p",
+        "text": "- Location. Only if a feature genuinely requires location information, and only with your explicit consent."
+      },
+      {
+        "type": "p",
+        "text": "- Contacts. Only if we implement contact discovery or invitation functionality, and only with your explicit consent."
+      },
+      {
+        "type": "p",
+        "text": "11.2. You may manage or revoke these permissions at any time through your device settings. Note that revoking certain permissions may affect the functionality of the Platform."
+      },
+      {
+        "type": "h2",
+        "text": "12. CREATOR INFORMATION"
+      },
+      {
+        "type": "p",
+        "text": "12.1. If you participate in the Creator Programme, we may process additional information, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Creator account status and programme eligibility."
+      },
+      {
+        "type": "p",
+        "text": "- Content performance metrics and analytics."
+      },
+      {
+        "type": "p",
+        "text": "- Qualifying views and engagement statistics."
+      },
+      {
+        "type": "p",
+        "text": "- Earnings and payment history."
+      },
+      {
+        "type": "p",
+        "text": "- Programme compliance and policy adherence."
+      },
+      {
+        "type": "p",
+        "text": "- Fraud and risk signals related to monetization."
+      },
+      {
+        "type": "h2",
+        "text": "13. IDENTITY VERIFICATION AND KYC"
+      },
+      {
+        "type": "p",
+        "text": "13.1. Creators who wish to receive payouts may be required to complete identity verification and Know Your Customer (KYC) procedures as required by applicable law and POPLI's policies."
+      },
+      {
+        "type": "p",
+        "text": "13.2. Information collected during KYC may include:"
+      },
+      {
+        "type": "p",
+        "text": "- Legal name and date of birth."
+      },
+      {
+        "type": "p",
+        "text": "- Address and contact information."
+      },
+      {
+        "type": "p",
+        "text": "- Government-issued identification documents (such as PAN card, Aadhaar, or other valid ID)."
+      },
+      {
+        "type": "p",
+        "text": "- Tax-related information."
+      },
+      {
+        "type": "p",
+        "text": "- Verification status and related records."
+      },
+      {
+        "type": "p",
+        "text": "- Other information required by applicable law."
+      },
+      {
+        "type": "p",
+        "text": "13.3. KYC verification may be conducted by POPLI or through a third-party service provider. Where a third-party provider handles verification, your information will be subject to their privacy practices, and we encourage you to review their policies."
+      },
+      {
+        "type": "h2",
+        "text": "14. PAYMENT AND PAYOUT INFORMATION"
+      },
+      {
+        "type": "p",
+        "text": "14.1. To process payouts to eligible Creators, we may collect and process payment information, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Bank account details and account number."
+      },
+      {
+        "type": "p",
+        "text": "- UPI information and identifiers."
+      },
+      {
+        "type": "p",
+        "text": "- Beneficiary name and contact information."
+      },
+      {
+        "type": "p",
+        "text": "- Transaction records and withdrawal history."
+      },
+      {
+        "type": "p",
+        "text": "- Payment status and processing information."
+      },
+      {
+        "type": "p",
+        "text": "- Tax-related records and reporting information."
+      },
+      {
+        "type": "p",
+        "text": "14.2. Payment processing may be handled by third-party payment service providers. Information provided to such providers is subject to their privacy policies and terms."
+      },
+      {
+        "type": "h2",
+        "text": "15. COINS AND VIRTUAL GIFTS"
+      },
+      {
+        "type": "p",
+        "text": "15.1. If POPLI offers Coins and Virtual Gifts, we may collect and process data related to these features, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Coin balances and transaction history."
+      },
+      {
+        "type": "p",
+        "text": "- Coins acquired through purchase or reward."
+      },
+      {
+        "type": "p",
+        "text": "- Virtual Gifts sent and received."
+      },
+      {
+        "type": "p",
+        "text": "- Transaction timestamps and related identifiers."
+      },
+      {
+        "type": "p",
+        "text": "- Creator and User identifiers associated with transactions."
+      },
+      {
+        "type": "p",
+        "text": "- Fraud prevention signals and risk indicators."
+      },
+      {
+        "type": "p",
+        "text": "15.2. Coins are virtual, platform-based tokens and are not cryptocurrency or legal tender."
+      },
+      {
+        "type": "h2",
+        "text": "16. CHALLENGES AND CAMPAIGNS"
+      },
+      {
+        "type": "p",
+        "text": "16.1. When you participate in Challenges, campaigns, or promotional programmes on the Platform, we may process information including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Submission information and Content."
+      },
+      {
+        "type": "p",
+        "text": "- Eligibility information and verification."
+      },
+      {
+        "type": "p",
+        "text": "- Participation and engagement metrics."
+      },
+      {
+        "type": "p",
+        "text": "- Reward information and distribution records."
+      },
+      {
+        "type": "p",
+        "text": "- Campaign-related communications."
+      },
+      {
+        "type": "h2",
+        "text": "17. REFERRAL INFORMATION"
+      },
+      {
+        "type": "p",
+        "text": "17.1. If POPLI offers referral programmes, we may process referral-related information, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Referral codes and links."
+      },
+      {
+        "type": "p",
+        "text": "- Referrer and referee relationships."
+      },
+      {
+        "type": "p",
+        "text": "- Referral status and verification."
+      },
+      {
+        "type": "p",
+        "text": "- Reward eligibility and distribution."
+      },
+      {
+        "type": "p",
+        "text": "- Fraud prevention information."
+      },
+      {
+        "type": "h2",
+        "text": "18. COMMUNICATIONS WITH POPLI"
+      },
+      {
+        "type": "p",
+        "text": "18.1. When you communicate with POPLI through customer support, grievance redressal, content reports, appeals, contact forms, email, or other support channels, we may collect and process:"
+      },
+      {
+        "type": "p",
+        "text": "- Your contact information."
+      },
+      {
+        "type": "p",
+        "text": "- Account information relevant to your inquiry."
+      },
+      {
+        "type": "p",
+        "text": "- The content of your communication."
+      },
+      {
+        "type": "p",
+        "text": "- Any supporting documentation or evidence you provide."
+      },
+      {
+        "type": "p",
+        "text": "- Resolution and follow-up information."
+      },
+      {
+        "type": "h2",
+        "text": "19. INFORMATION FROM THIRD PARTIES"
+      },
+      {
+        "type": "p",
+        "text": "19.1. POPLI may receive information about you from third parties in certain circumstances, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Authentication and verification providers."
+      },
+      {
+        "type": "p",
+        "text": "- Payment processing partners."
+      },
+      {
+        "type": "p",
+        "text": "- KYC and identity verification providers."
+      },
+      {
+        "type": "p",
+        "text": "- Analytics and measurement partners."
+      },
+      {
+        "type": "p",
+        "text": "- Campaign and promotional partners where applicable."
+      },
+      {
+        "type": "p",
+        "text": "- Other Users who interact with you on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "- Law enforcement or government authorities where legally required."
+      },
+      {
+        "type": "p",
+        "text": "19.2. We do not control the privacy practices of third parties, and we encourage you to review their privacy policies."
+      },
+      {
+        "type": "h2",
+        "text": "20. HOW POPLI USES INFORMATION"
+      },
+      {
+        "type": "p",
+        "text": "20.1. POPLI uses the information we collect for the following purposes:"
+      },
+      {
+        "type": "p",
+        "text": "- Account Management. Creating, maintaining, and securing your Account."
+      },
+      {
+        "type": "p",
+        "text": "- Authentication. Verifying your identity and preventing unauthorized access."
+      },
+      {
+        "type": "p",
+        "text": "- Service Operation. Operating and providing the Platform and its features."
+      },
+      {
+        "type": "p",
+        "text": "- Content Display. Displaying User Content and enabling interactions."
+      },
+      {
+        "type": "p",
+        "text": "- Personalization. Delivering personalized content recommendations and feeds."
+      },
+      {
+        "type": "p",
+        "text": "- Improvement. Improving, developing, and enhancing the Platform."
+      },
+      {
+        "type": "p",
+        "text": "- Creator Monetization. Processing Earnings and payments for Creators."
+      },
+      {
+        "type": "p",
+        "text": "- View Validation. Validating Eligible Views and calculating Earnings."
+      },
+      {
+        "type": "p",
+        "text": "- Payment Processing. Processing payouts and withdrawals."
+      },
+      {
+        "type": "p",
+        "text": "- Fraud Detection. Detecting and preventing fraud, Invalid Activity, and abuse."
+      },
+      {
+        "type": "p",
+        "text": "- Security. Maintaining the security and integrity of the Platform."
+      },
+      {
+        "type": "p",
+        "text": "- Content Moderation. Enforcing Community Guidelines and Terms."
+      },
+      {
+        "type": "p",
+        "text": "- Customer Support. Responding to inquiries and resolving issues."
+      },
+      {
+        "type": "p",
+        "text": "- Analytics. Understanding Platform usage and performance."
+      },
+      {
+        "type": "p",
+        "text": "- Challenges and Campaigns. Administering and facilitating Challenges and campaigns."
+      },
+      {
+        "type": "p",
+        "text": "- Referrals. Managing referral programmes."
+      },
+      {
+        "type": "p",
+        "text": "- Legal Compliance. Complying with applicable laws and regulations."
+      },
+      {
+        "type": "p",
+        "text": "- Protection. Protecting the rights, safety, and interests of Users and POPLI."
+      },
+      {
+        "type": "h2",
+        "text": "21. PERSONALIZATION AND RECOMMENDATIONS"
+      },
+      {
+        "type": "p",
+        "text": "21.1. POPLI may use engagement data and other relevant signals to personalize your experience and recommend content, including:"
+      },
+      {
+        "type": "p",
+        "text": "- Reels and videos."
+      },
+      {
+        "type": "p",
+        "text": "- Creators and accounts to follow."
+      },
+      {
+        "type": "p",
+        "text": "- Challenges and campaigns."
+      },
+      {
+        "type": "p",
+        "text": "- Other content relevant to your interests."
+      },
+      {
+        "type": "p",
+        "text": "21.2. Personalization signals may include:"
+      },
+      {
+        "type": "p",
+        "text": "- Content you have watched and for how long."
+      },
+      {
+        "type": "p",
+        "text": "- Likes, comments, shares, and other interactions."
+      },
+      {
+        "type": "p",
+        "text": "- Accounts you follow."
+      },
+      {
+        "type": "p",
+        "text": "- Your search queries."
+      },
+      {
+        "type": "p",
+        "text": "- Your language and approximate region."
+      },
+      {
+        "type": "p",
+        "text": "- Content interactions and engagement patterns."
+      },
+      {
+        "type": "p",
+        "text": "21.3. Recommendation systems are designed to enhance your experience on the Platform. You may influence recommendations by adjusting your interactions and settings."
+      },
+      {
+        "type": "h2",
+        "text": "22. ANALYTICS"
+      },
+      {
+        "type": "p",
+        "text": "22.1. POPLI uses analytics information to understand Platform usage, feature performance, User experience, technical performance, Creator performance, and service reliability."
+      },
+      {
+        "type": "p",
+        "text": "22.2. Analytics data helps us improve the Platform and make data-informed decisions about product development."
+      },
+      {
+        "type": "h2",
+        "text": "23. FRAUD, ABUSE AND SECURITY"
+      },
+      {
+        "type": "p",
+        "text": "23.1. POPLI processes information to detect, prevent, and respond to fraud, abuse, and security threats, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Bots and automated accounts."
+      },
+      {
+        "type": "p",
+        "text": "- Fake accounts and impersonation."
+      },
+      {
+        "type": "p",
+        "text": "- Artificial views and engagement manipulation."
+      },
+      {
+        "type": "p",
+        "text": "- Click farms and view farms."
+      },
+      {
+        "type": "p",
+        "text": "- Invalid Activity as defined in the Terms."
+      },
+      {
+        "type": "p",
+        "text": "- Referral fraud and gaming."
+      },
+      {
+        "type": "p",
+        "text": "- Coin and gift abuse."
+      },
+      {
+        "type": "p",
+        "text": "- Payment fraud and chargebacks."
+      },
+      {
+        "type": "p",
+        "text": "- Account compromise and unauthorized access."
+      },
+      {
+        "type": "p",
+        "text": "- Security threats and vulnerabilities."
+      },
+      {
+        "type": "p",
+        "text": "- Violations of Platform rules and Community Guidelines."
+      },
+      {
+        "type": "p",
+        "text": "23.2. POPLI may combine relevant signals from multiple sources to protect the integrity of the Platform, including view-based monetization."
+      },
+      {
+        "type": "h2",
+        "text": "24. CONTENT MODERATION AND SAFETY"
+      },
+      {
+        "type": "p",
+        "text": "24.1. POPLI processes Content and associated information to enforce Community Guidelines and ensure Platform safety. This includes:"
+      },
+      {
+        "type": "p",
+        "text": "- Reviewing Content for compliance with Platform policies."
+      },
+      {
+        "type": "p",
+        "text": "- Processing User reports and complaints."
+      },
+      {
+        "type": "p",
+        "text": "- Investigating safety concerns and potential violations."
+      },
+      {
+        "type": "p",
+        "text": "- Applying moderation actions such as removal or restriction."
+      },
+      {
+        "type": "p",
+        "text": "- Complying with legal and regulatory requirements."
+      },
+      {
+        "type": "p",
+        "text": "24.2. Content moderation may involve automated tools, artificial intelligence, and human review. Not all Content is manually reviewed."
+      },
+      {
+        "type": "h2",
+        "text": "25. LEGAL BASES FOR PROCESSING"
+      },
+      {
+        "type": "p",
+        "text": "25.1. POPLI processes personal information on the following legal bases, as applicable under Indian law:"
+      },
+      {
+        "type": "p",
+        "text": "- Consent. Where you have provided your consent for specific processing activities. You may withdraw consent at any time."
+      },
+      {
+        "type": "p",
+        "text": "- Contractual Necessity. Processing necessary to provide the Services you have requested, such as creating and maintaining your Account."
+      },
+      {
+        "type": "p",
+        "text": "- Legal Obligation. Processing necessary to comply with applicable laws and regulations."
+      },
+      {
+        "type": "p",
+        "text": "- Legitimate Interests. Processing necessary for our legitimate interests, including operating the Platform, improving services, preventing fraud, and ensuring security, where such interests are not overridden by your rights and interests."
+      },
+      {
+        "type": "h2",
+        "text": "26. CONSENT"
+      },
+      {
+        "type": "p",
+        "text": "26.1. Where we rely on your consent to process personal information, we will request your explicit consent before such processing begins."
+      },
+      {
+        "type": "p",
+        "text": "26.2. You have the right to withdraw your consent at any time by adjusting your privacy settings, contacting us, or using the mechanisms provided on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "26.3. Withdrawal of consent does not affect the lawfulness of processing based on consent before its withdrawal."
+      },
+      {
+        "type": "p",
+        "text": "26.4. If you withdraw consent for processing that is necessary to provide a particular feature, you may no longer be able to use that feature."
+      },
+      {
+        "type": "h2",
+        "text": "27. COOKIES AND SIMILAR TECHNOLOGIES"
+      },
+      {
+        "type": "p",
+        "text": "27.1. POPLI may use cookies, local storage, and similar technologies to enhance your experience on the Platform. These technologies may be used for:"
+      },
+      {
+        "type": "p",
+        "text": "- Authentication and session management."
+      },
+      {
+        "type": "p",
+        "text": "- Storing preferences and settings."
+      },
+      {
+        "type": "p",
+        "text": "- Security and fraud prevention."
+      },
+      {
+        "type": "p",
+        "text": "- Analytics and performance measurement."
+      },
+      {
+        "type": "p",
+        "text": "- Functionality and feature operation."
+      },
+      {
+        "type": "p",
+        "text": "27.2. You may manage your cookie preferences through your browser settings. Note that disabling certain cookies may affect the functionality of the Platform."
+      },
+      {
+        "type": "h2",
+        "text": "28. HOW INFORMATION MAY BE SHARED"
+      },
+      {
+        "type": "p",
+        "text": "28.1. POPLI may share your information in the following circumstances:"
+      },
+      {
+        "type": "p",
+        "text": "- Other Users. Information you choose to make public, such as your username, profile photo, bio, public Content, and engagement counts, may be visible to other Users."
+      },
+      {
+        "type": "p",
+        "text": "- Service Providers. We may share information with vendors who assist us in providing the Platform, including hosting, infrastructure, analytics, communications, payments, verification, and customer support."
+      },
+      {
+        "type": "p",
+        "text": "- Payment Providers. Payment and payout information may be shared with payment processing partners to facilitate transactions."
+      },
+      {
+        "type": "p",
+        "text": "- KYC/Verification Providers. Identity verification information may be shared with verification partners for compliance purposes."
+      },
+      {
+        "type": "p",
+        "text": "- Campaign Partners. Where you participate in campaigns or promotional activities, information may be shared with campaign partners subject to your consent."
+      },
+      {
+        "type": "p",
+        "text": "- Professional Advisers. We may share information with legal, financial, and other professional advisers as necessary."
+      },
+      {
+        "type": "p",
+        "text": "- Authorities. Information may be disclosed to government authorities, courts, or law enforcement where required by law or legal process."
+      },
+      {
+        "type": "p",
+        "text": "- Corporate Transactions. In connection with a merger, acquisition, restructuring, financing, or sale of assets, information may be transferred to the relevant parties subject to applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "29. PUBLIC INFORMATION"
+      },
+      {
+        "type": "p",
+        "text": "29.1. Information you choose to make public on the Platform may be visible to other Users and, depending on your privacy settings, to the public."
+      },
+      {
+        "type": "p",
+        "text": "29.2. Public information may include:"
+      },
+      {
+        "type": "p",
+        "text": "- Your username and display name."
+      },
+      {
+        "type": "p",
+        "text": "- Your profile photo and bio."
+      },
+      {
+        "type": "p",
+        "text": "- Public reels, videos, and Content you have published."
+      },
+      {
+        "type": "p",
+        "text": "- Public comments and interactions."
+      },
+      {
+        "type": "p",
+        "text": "- Your follower and following lists."
+      },
+      {
+        "type": "p",
+        "text": "- Engagement counts such as views, likes, and comments."
+      },
+      {
+        "type": "p",
+        "text": "29.3. You can manage the visibility of your information through your account privacy settings."
+      },
+      {
+        "type": "h2",
+        "text": "30. SERVICE PROVIDERS"
+      },
+      {
+        "type": "p",
+        "text": "30.1. POPLI engages third-party service providers to perform services on our behalf, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Hosting and infrastructure services."
+      },
+      {
+        "type": "p",
+        "text": "- Security and fraud prevention services."
+      },
+      {
+        "type": "p",
+        "text": "- Analytics and performance measurement."
+      },
+      {
+        "type": "p",
+        "text": "- Communications and notification services."
+      },
+      {
+        "type": "p",
+        "text": "- Payment processing and payout services."
+      },
+      {
+        "type": "p",
+        "text": "- Identity verification and KYC services."
+      },
+      {
+        "type": "p",
+        "text": "- Customer support and grievance redressal."
+      },
+      {
+        "type": "p",
+        "text": "30.2. Service providers are contractually obligated to process information only in accordance with our instructions and subject to appropriate data protection safeguards."
+      },
+      {
+        "type": "h2",
+        "text": "31. BUSINESS TRANSFERS"
+      },
+      {
+        "type": "p",
+        "text": "31.1. In the event of a merger, acquisition, restructuring, financing, sale of assets, or other corporate transaction, your information may be transferred to the successor or acquiring entity."
+      },
+      {
+        "type": "p",
+        "text": "31.2. Such transfers shall be subject to applicable law and reasonable notice where required."
+      },
+      {
+        "type": "h2",
+        "text": "32. LEGAL DISCLOSURES"
+      },
+      {
+        "type": "p",
+        "text": "32.1. POPLI may disclose your information where required to:"
+      },
+      {
+        "type": "p",
+        "text": "- Comply with applicable laws, regulations, or court orders."
+      },
+      {
+        "type": "p",
+        "text": "- Respond to lawful government requests and regulatory inquiries."
+      },
+      {
+        "type": "p",
+        "text": "- Enforce our Terms and Conditions and Community Guidelines."
+      },
+      {
+        "type": "p",
+        "text": "- Protect the rights, safety, and property of POPLI, its Users, or the public."
+      },
+      {
+        "type": "p",
+        "text": "- Detect, prevent, or address fraud, security, or technical issues."
+      },
+      {
+        "type": "p",
+        "text": "32.2. We will evaluate each request on a case-by-case basis and will only disclose information where legally compelled or where we reasonably believe disclosure is necessary."
+      },
+      {
+        "type": "h2",
+        "text": "33. INTERNATIONAL DATA TRANSFERS"
+      },
+      {
+        "type": "p",
+        "text": "33.1. POPLI operates primarily in India. However, information may be transferred to, stored, or processed in countries outside India where we or our service providers operate."
+      },
+      {
+        "type": "p",
+        "text": "33.2. Where information is transferred internationally, we will ensure that appropriate safeguards are in place in accordance with applicable law, including standard contractual clauses or other permitted mechanisms."
+      },
+      {
+        "type": "h2",
+        "text": "34. DATA RETENTION"
+      },
+      {
+        "type": "p",
+        "text": "34.1. POPLI retains personal information for as long as necessary to fulfill the purposes for which it was collected, including but not limited to:"
+      },
+      {
+        "type": "p",
+        "text": "- Providing and improving the Platform."
+      },
+      {
+        "type": "p",
+        "text": "- Managing your Account and preferences."
+      },
+      {
+        "type": "p",
+        "text": "- Complying with legal, tax, and regulatory requirements."
+      },
+      {
+        "type": "p",
+        "text": "- Processing Earnings and payments."
+      },
+      {
+        "type": "p",
+        "text": "- Resolving disputes and enforcing agreements."
+      },
+      {
+        "type": "p",
+        "text": "- Preventing fraud and abuse."
+      },
+      {
+        "type": "p",
+        "text": "- Security and integrity purposes."
+      },
+      {
+        "type": "p",
+        "text": "- Content moderation and safety."
+      },
+      {
+        "type": "p",
+        "text": "- Backup and operational continuity."
+      },
+      {
+        "type": "p",
+        "text": "34.2. Specific retention periods may vary based on the nature of the information and applicable requirements. Information that is no longer needed will be securely deleted or anonymized."
+      },
+      {
+        "type": "p",
+        "text": "34.3. You may request deletion of your Account at any time. However, we may retain certain information as required by applicable law, for fraud prevention, security, dispute resolution, and other legitimate purposes."
+      },
+      {
+        "type": "h2",
+        "text": "35. ACCOUNT DELETION"
+      },
+      {
+        "type": "p",
+        "text": "35.1. You may request deletion of your Account through the account deletion mechanism provided on the Platform."
+      },
+      {
+        "type": "p",
+        "text": "35.2. Upon receiving a valid deletion request, we will deactivate your Account and initiate the removal of your User Content from the Platform."
+      },
+      {
+        "type": "p",
+        "text": "35.3. Account deletion does not guarantee complete removal of all information:"
+      },
+      {
+        "type": "p",
+        "text": "- Backup copies may be retained for a reasonable period."
+      },
+      {
+        "type": "p",
+        "text": "- Information may be retained as required by applicable law or regulatory requirements."
+      },
+      {
+        "type": "p",
+        "text": "- Content shared or disseminated by other Users may continue to be accessible."
+      },
+      {
+        "type": "p",
+        "text": "- Transaction records and payment information may be retained for tax or financial compliance."
+      },
+      {
+        "type": "p",
+        "text": "- Information may be retained for fraud prevention, security, and dispute resolution purposes."
+      },
+      {
+        "type": "p",
+        "text": "35.4. Pending creator Earnings that are not subject to adjustment or reversal may be paid upon account deletion, subject to verification requirements."
+      },
+      {
+        "type": "h2",
+        "text": "36. USER PRIVACY RIGHTS"
+      },
+      {
+        "type": "p",
+        "text": "36.1. Subject to applicable Indian law, you may have the following rights regarding your personal information:"
+      },
+      {
+        "type": "p",
+        "text": "- Right to Access. Request a copy of the personal information we hold about you."
+      },
+      {
+        "type": "p",
+        "text": "- Right to Correction. Request correction of inaccurate or incomplete information."
+      },
+      {
+        "type": "p",
+        "text": "- Right to Update. Request updates to your information."
+      },
+      {
+        "type": "p",
+        "text": "- Right to Completion. Request completion of incomplete information."
+      },
+      {
+        "type": "p",
+        "text": "- Right to Erasure. Request deletion of your personal information, subject to legal exceptions."
+      },
+      {
+        "type": "p",
+        "text": "- Right to Withdraw Consent. Withdraw consent where processing is based on consent."
+      },
+      {
+        "type": "p",
+        "text": "- Right to Grievance Redressal. Lodge a complaint with the Grievance Officer or appropriate authority."
+      },
+      {
+        "type": "p",
+        "text": "- Right to Nomination. Designate a nominee to exercise rights in the event of incapacity or death, where applicable."
+      },
+      {
+        "type": "p",
+        "text": "36.2. To exercise these rights, please contact us using the information provided in the Contact Us section below."
+      },
+      {
+        "type": "p",
+        "text": "36.3. We will respond to all legitimate requests in accordance with applicable law and within the timeframes required."
+      },
+      {
+        "type": "h2",
+        "text": "37. USER RESPONSIBILITIES"
+      },
+      {
+        "type": "p",
+        "text": "37.1. Users are responsible for:"
+      },
+      {
+        "type": "p",
+        "text": "- Providing accurate and complete information when creating an Account."
+      },
+      {
+        "type": "p",
+        "text": "- Not impersonating any person or entity."
+      },
+      {
+        "type": "p",
+        "text": "- Not submitting false or frivolous grievances or reports."
+      },
+      {
+        "type": "p",
+        "text": "- Protecting their Account credentials and not sharing them with third parties."
+      },
+      {
+        "type": "p",
+        "text": "- Respecting the privacy and rights of other Users."
+      },
+      {
+        "type": "h2",
+        "text": "38. CHILDREN AND MINORS"
+      },
+      {
+        "type": "p",
+        "text": "38.1. POPLI is not intended for use by individuals under the age of [APPLICABLE AGE]. We do not knowingly collect personal information from individuals below this age."
+      },
+      {
+        "type": "p",
+        "text": "38.2. If you are under [APPLICABLE AGE], you must not create an Account or use the Platform without the consent of your parent or legal guardian."
+      },
+      {
+        "type": "p",
+        "text": "38.3. If we become aware that we have collected personal information from a minor without appropriate consent, we will take steps to delete such information as soon as possible."
+      },
+      {
+        "type": "p",
+        "text": "38.4. Minors are not eligible to participate in monetization programmes or receive Earnings. We do not knowingly permit minors to participate in the Creator Programme."
+      },
+      {
+        "type": "p",
+        "text": "38.5. Parents or legal guardians who believe we may have collected information from their minor child should contact us immediately."
+      },
+      {
+        "type": "h2",
+        "text": "39. SECURITY"
+      },
+      {
+        "type": "p",
+        "text": "39.1. POPLI uses reasonable administrative, organizational, and technical safeguards appropriate to the platform to protect personal information against unauthorized access, alteration, disclosure, or destruction."
+      },
+      {
+        "type": "p",
+        "text": "39.2. While we take reasonable steps to protect your information, no electronic transmission or storage system can be guaranteed to be completely secure. We cannot guarantee the absolute security of your information."
+      },
+      {
+        "type": "p",
+        "text": "39.3. You are responsible for maintaining the security of your Account credentials and for any activity that occurs under your Account."
+      },
+      {
+        "type": "h2",
+        "text": "40. DATA BREACHES AND SECURITY INCIDENTS"
+      },
+      {
+        "type": "p",
+        "text": "40.1. In the event of a security incident or data breach that affects your personal information, we will investigate the incident and take appropriate remedial measures."
+      },
+      {
+        "type": "p",
+        "text": "40.2. We will notify affected Users and relevant authorities where required by applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "41. USER COMMUNICATIONS"
+      },
+      {
+        "type": "p",
+        "text": "41.1. POPLI may communicate with you through various channels, including email, push notifications, and in-app messages. These communications may include:"
+      },
+      {
+        "type": "p",
+        "text": "- Security notifications and account alerts."
+      },
+      {
+        "type": "p",
+        "text": "- Account updates and verification requests."
+      },
+      {
+        "type": "p",
+        "text": "- Creator programme updates and payment information."
+      },
+      {
+        "type": "p",
+        "text": "- Service notices and operational announcements."
+      },
+      {
+        "type": "p",
+        "text": "- Promotional communications where permitted by law and with your consent."
+      },
+      {
+        "type": "p",
+        "text": "41.2. You may opt out of promotional communications by following the unsubscribe instructions provided in such communications."
+      },
+      {
+        "type": "p",
+        "text": "41.3. Essential transactional and security communications will continue to be sent as necessary for the operation of your Account and the Platform."
+      },
+      {
+        "type": "h2",
+        "text": "42. PUSH NOTIFICATIONS"
+      },
+      {
+        "type": "p",
+        "text": "42.1. The POPLI mobile application may send push notifications to your device. These notifications may include:"
+      },
+      {
+        "type": "p",
+        "text": "- Account activity and interactions."
+      },
+      {
+        "type": "p",
+        "text": "- Creator programme updates."
+      },
+      {
+        "type": "p",
+        "text": "- Challenge and campaign announcements."
+      },
+      {
+        "type": "p",
+        "text": "- Security alerts and verification requests."
+      },
+      {
+        "type": "p",
+        "text": "- Payment and payout notifications."
+      },
+      {
+        "type": "p",
+        "text": "42.2. You may manage push notification preferences through your device settings or within the application. You may choose to disable all non-essential notifications."
+      },
+      {
+        "type": "h2",
+        "text": "43. ADVERTISING"
+      },
+      {
+        "type": "p",
+        "text": "43.1. The Platform may include advertising, sponsored content, and promotional material. If advertising is served on the Platform, we may use information to deliver relevant advertising."
+      },
+      {
+        "type": "p",
+        "text": "43.2. We do not currently serve personalized advertising based on your activity on the Platform. If we introduce personalized advertising, we will update this Privacy Policy and obtain your consent where required by applicable law."
+      },
+      {
+        "type": "h2",
+        "text": "44. THIRD-PARTY LINKS"
+      },
+      {
+        "type": "p",
+        "text": "44.1. The Platform may contain links to third-party websites, services, or applications that are not operated by POPLI."
+      },
+      {
+        "type": "p",
+        "text": "44.2. We are not responsible for the privacy practices of such third parties. We encourage you to review the privacy policies of any third-party services you access through our Platform."
+      },
+      {
+        "type": "h2",
+        "text": "45. CHANGES TO THE PRIVACY POLICY"
+      },
+      {
+        "type": "p",
+        "text": "45.1. POPLI may update this Privacy Policy from time to time. We will post the updated Privacy Policy on the Platform and update the \"Last Updated\" date."
+      },
+      {
+        "type": "p",
+        "text": "45.2. We will notify Users of material changes to this Privacy Policy through the Platform, email, or other communication channels. Your continued use of the Platform after the effective date of such changes constitutes your acceptance of the updated Privacy Policy."
+      },
+      {
+        "type": "p",
+        "text": "45.3. We encourage you to review this Privacy Policy periodically to stay informed about our privacy practices."
+      },
+      {
+        "type": "h2",
+        "text": "46. GRIEVANCE REDRESSAL"
+      },
+      {
+        "type": "p",
+        "text": "46.1. If you have any questions, concerns, or complaints regarding this Privacy Policy or the handling of your personal information, you may contact POPLI's designated Grievance Officer:"
+      },
+      {
+        "type": "p",
+        "text": "- Grievance Officer: [GRIEVANCE OFFICER NAME]"
+      },
+      {
+        "type": "p",
+        "text": "- Email: [GRIEVANCE EMAIL]"
+      },
+      {
+        "type": "p",
+        "text": "- Address: [GRIEVANCE ADDRESS]"
+      },
+      {
+        "type": "p",
+        "text": "46.2. The Grievance Officer shall acknowledge receipt of your complaint within the time period required by applicable law and shall endeavor to address the grievance in accordance with applicable law and POPLI's policies."
+      },
+      {
+        "type": "p",
+        "text": "46.3. You are encouraged to provide the following information when submitting a grievance:"
+      },
+      {
+        "type": "p",
+        "text": "- Your name, contact information, and any relevant Account details."
+      },
+      {
+        "type": "p",
+        "text": "- A clear description of the grievance, including the nature of the privacy concern."
+      },
+      {
+        "type": "p",
+        "text": "- Any supporting documentation or evidence."
+      },
+      {
+        "type": "h2",
+        "text": "47. CONTACT US"
+      },
+      {
+        "type": "p",
+        "text": "If you have any questions, concerns, or feedback regarding this Privacy Policy or our privacy practices, please contact us at:"
+      },
+      {
+        "type": "p",
+        "text": "- POPLI"
+      },
+      {
+        "type": "p",
+        "text": "- Operated by: [LEGAL ENTITY NAME]"
+      },
+      {
+        "type": "p",
+        "text": "- Privacy Contact: [PRIVACY EMAIL]"
+      },
+      {
+        "type": "p",
+        "text": "- Registered Address: [REGISTERED OFFICE ADDRESS]"
+      },
+      {
+        "type": "p",
+        "text": "- For grievances and complaints, please refer to the Grievance Redressal section (Section 46) above."
+      },
+      {
+        "type": "p",
+        "text": "---"
+      },
+      {
+        "type": "p",
+        "text": "**Footer Content:**"
+      },
+      {
+        "type": "p",
+        "text": "Empowering the next generation of Indian creators. Connect, create, and grow."
+      },
+      {
+        "type": "p",
+        "text": "- **Company:** Home, About, Contact Us"
+      },
+      {
+        "type": "p",
+        "text": "- **Legal:** Terms & Conditions, Privacy Policy"
+      },
+      {
+        "type": "p",
+        "text": "- **Support:** Help & Support, Report an Issue"
+      },
+      {
+        "type": "p",
+        "text": "- © POPLI. All rights reserved. Made for India"
+      }
+    ]
+  },
+  "guidelines": {
+    "title": "Community Guidelines",
+    "lastUpdated": "July 7, 2026",
+    "content": [
+      {
+        "type": "p",
+        "text": "To maintain a safe, respectful, and highly engaging environment for the creators of Bharat, all users must adhere to our Community Guidelines."
+      },
+      {
+        "type": "h2",
+        "text": "1. Absolute Red Lines (Zero Tolerance)"
+      },
+      {
+        "type": "p",
+        "text": "Any user who uploads, shares, or comments with content containing the following will face an immediate, permanent account ban and forfeiture of their Pop-Wallet balances:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Non-Consensual Intimate Imagery (NCII): Any content showing individuals in partial or full nudity, or engaged in sexual acts, without their explicit consent.",
+          "Hate Speech & Harassment: Content that promotes violence, discrimination, or hatred based on religion, caste, gender, or community.",
+          "Unlabelled Deepfakes/SGI: Uploading manipulated media that falsely impersonates real individuals (politicians, celebrities, or other citizens) without the mandatory 10% AI label.",
+          "Illegal Activities: Promoting gambling, betting, illegal substances, or cybercrimes.",
+          "Threats to Sovereignty: Any content that threatens the sovereignty, integrity, or security of India."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "2. Moderation & Strike System"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Automated First Pass: All uploads are scanned automatically by our server-side vision classification and audio-fingerprinting models.",
+          "The 3-Strike Rule: For minor violations (e.g., standard copyright claims or mild policy breaches), users will receive a warning. Three (3) strikes within a 180-day period will result in permanent account termination.",
+          "Trust Score: The platform maintains a rolling Creator Trust Score (0-100) based on your history. High-trust creators receive a small discoverability boost in the For You feed."
+        ]
+      },
+      {
+        "type": "h2",
+        "text": "Resident Grievance Redressal Mechanism (India)"
+      },
+      {
+        "type": "p",
+        "text": "In accordance with the IT Rules, 2021, and the DPDP Act, 2023, Popli has appointed a dedicated Resident Grievance Officer and Data Protection Officer in India:"
+      },
+      {
+        "type": "ul",
+        "items": [
+          "Designated Officer: Joint Secretary, Legal Compliance",
+          "Official Email: legal@popli.app",
+          "Physical Address: Popli Media Private Limited, Tech Park, New Delhi, India",
+          "SLA for Resolution: We will acknowledge all complaints within 24 hours. General grievances will be resolved within 7 business days (reduced under 2026 guidelines). High-risk content (NCII/morphed imagery) will be addressed within 36 hours."
+        ]
+      }
+    ]
+  },
+  "cookies": {
+    "title": "Cookie Policy",
+    "lastUpdated": "July 7, 2026",
+    "content": [
+      {
+        "type": "p",
+        "text": "This document sets out the mandatory legally binding agreements and data policies for the Popli Mobile Application in accordance with the IT Act, 2000 and DPDP Act, 2023."
+      },
+      {
+        "type": "h2",
+        "text": "Information about Cookies"
+      },
+      {
+        "type": "p",
+        "text": "Please refer to the Privacy Policy for detailed information on how we manage unbundled consent, tracking, and telemetry data. Popli acts as a Data Fiduciary and ensures minimal data processing as per the legal compliance framework."
+      }
+    ]
+  }
+}
