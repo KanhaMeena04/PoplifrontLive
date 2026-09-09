@@ -2,9 +2,10 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import * as Icons from 'lucide-react';
-import { Check, X } from 'lucide-react';
+import { Check, X, Download } from 'lucide-react';
 import EarnRoadmapSection from '../components/EarnRoadmapSection';
 import RadialFeaturesSection from '../components/RadialFeaturesSection';
+import { ANDROID_APK_URL } from '../constants';
 
 const fourWaysToEarn = [
   {
@@ -224,12 +225,15 @@ const Features: React.FC = () => {
             whileHover={{ scale: 1.05 }}
             whileTap={{ scale: 0.95 }}
           >
-            <NavLink to="/coming-soon" className="premium-button text-xl px-12 py-5 inline-flex items-center justify-center gap-3 mx-auto shadow-[0_0_40px_rgba(212,175,55,0.4)]">
-              <svg className="w-7 h-7 animate-pulse text-[#fbc343]" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" />
-              </svg>
-              Coming Soon - Android
-            </NavLink>
+            <a 
+              href={ANDROID_APK_URL} 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="premium-button text-xl px-12 py-5 inline-flex items-center justify-center gap-3 mx-auto shadow-[0_0_40px_rgba(212,175,55,0.4)]"
+            >
+              <Download className="w-7 h-7 text-[#fbc343]" />
+              Download for Android
+            </a>
           </motion.div>
         </div>
 

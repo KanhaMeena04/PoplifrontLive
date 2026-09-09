@@ -3,8 +3,9 @@ import { NavLink } from 'react-router-dom';
 import { motion, useScroll, useTransform } from 'framer-motion';
 import gsap from 'gsap';
 import contentData from '../../json/content.json';
-import { Heart, UserPlus, Share2, MessageCircle } from 'lucide-react';
+import { Heart, UserPlus, Share2, MessageCircle, Download } from 'lucide-react';
 import appScreenshot from '../../assets/app-screenshot.jpeg';
+import { ANDROID_APK_URL } from '../../constants';
 
 const FloatingElement = ({ children, className, delay = 0, yOffset = 20 }: any) => {
   return (
@@ -74,12 +75,17 @@ const Hero: React.FC = () => {
           </p>
 
           <div className="flex flex-col sm:flex-row items-center justify-center lg:justify-start gap-6">
-            <NavLink to="/coming-soon" className="hero-cta premium-button relative group px-8 py-4 flex items-center justify-center gap-2">
+            <a 
+              href={ANDROID_APK_URL} 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="hero-cta premium-button relative group px-8 py-4 flex items-center justify-center gap-2"
+            >
               <span className="relative z-10 flex items-center gap-2">
-                <svg className="w-6 h-6 animate-pulse text-[#fbc343]" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M12 8v4l3 3m6-3a9 9 0 11-18 0 9 9 0 0118 0z" /></svg>
-                Coming Soon - Android
+                <Download className="w-6 h-6 text-[#fbc343]" />
+                Download for Android
               </span>
-            </NavLink>
+            </a>
             
             <NavLink to="/coming-soon" className="hero-cta px-8 py-4 rounded-full text-white font-bold text-xl hover:bg-white/10 transition-colors border-2 border-white/20">
               Coming Soon - iOS

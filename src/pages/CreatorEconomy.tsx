@@ -1,8 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { NavLink } from 'react-router-dom';
 import { motion, AnimatePresence, useInView, animate } from 'framer-motion';
-import { MapPin, X, Check, ArrowRight, Briefcase, Clock } from 'lucide-react';
+import { MapPin, X, Check, ArrowRight, Briefcase, Download } from 'lucide-react';
 import GlobeReachGraphic from '../components/GlobeReachGraphic';
+import { ANDROID_APK_URL } from '../constants';
 
 const problemStats = [
   { value: "50 Million", label: "Indian creators on social media" },
@@ -268,10 +269,15 @@ const CreatorEconomy: React.FC = () => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          <NavLink to="/coming-soon" className="premium-button text-xl px-12 py-5 inline-flex items-center justify-center gap-3 mx-auto shadow-[0_0_40px_rgba(212,175,55,0.4)]">
-            <Clock className="w-6 h-6 animate-pulse text-[#fbc343]" />
-            App Coming Soon
-          </NavLink>
+          <a 
+            href={ANDROID_APK_URL} 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="premium-button text-xl px-12 py-5 inline-flex items-center justify-center gap-3 mx-auto shadow-[0_0_40px_rgba(212,175,55,0.4)]"
+          >
+            <Download className="w-6 h-6 text-[#fbc343]" />
+            Download for Android
+          </a>
         </motion.div>
       </div>
       

@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Menu, X } from 'lucide-react';
 import navigationData from '../json/navigation.json';
+import { ANDROID_APK_URL } from '../constants';
 
 import logo from '../assets/logo.png';
 
@@ -60,9 +61,14 @@ const Navbar: React.FC = () => {
 
         {/* Action Button */}
         <div className="hidden md:block">
-          <NavLink to="/coming-soon" className="premium-button inline-block text-center">
-            Coming Soon
-          </NavLink>
+          <a 
+            href={ANDROID_APK_URL} 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="premium-button inline-block text-center"
+          >
+            Download Now
+          </a>
         </div>
 
         {/* Mobile Toggle */}
@@ -93,13 +99,15 @@ const Navbar: React.FC = () => {
               {item.label}
             </NavLink>
           ))}
-          <NavLink 
-            to="/coming-soon" 
+          <a 
+            href={ANDROID_APK_URL} 
+            target="_blank" 
+            rel="noopener noreferrer"
             onClick={() => setIsOpen(false)}
             className="premium-button w-full py-3 mt-4 text-center block"
           >
-            Coming Soon
-          </NavLink>
+            Download Now
+          </a>
         </div>
       </motion.div>
     </motion.nav>

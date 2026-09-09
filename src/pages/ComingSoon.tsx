@@ -1,8 +1,9 @@
 import React, { useState } from 'react';
 import { motion } from 'framer-motion';
 import { NavLink } from 'react-router-dom';
-import { ArrowLeft, Bell, CheckCircle2, Sparkles, Smartphone, Play } from 'lucide-react';
+import { ArrowLeft, Bell, CheckCircle2, Sparkles, Smartphone, Play, Download } from 'lucide-react';
 import logo from '../assets/logo.png';
+import { ANDROID_APK_URL } from '../constants';
 
 const ComingSoon: React.FC = () => {
   const [email, setEmail] = useState('');
@@ -73,20 +74,25 @@ const ComingSoon: React.FC = () => {
 
           {/* Main Heading */}
           <h1 className="text-4xl md:text-6xl font-display font-extrabold text-white mb-6 tracking-tight leading-tight">
-            App is <span className="text-gradient">Coming Soon</span>
+            App is <span className="text-gradient">Ready to Download</span>
           </h1>
 
           {/* Detailed Message */}
           <p className="text-lg md:text-xl text-white/80 font-sans max-w-xl mx-auto mb-10 leading-relaxed">
-            We are putting the finishing touches on the official <strong className="text-white">Popli App</strong> for Android & iOS. We will be live on Google Play Store very soon!
+            Download the official <strong className="text-white">Popli Android App</strong> right now via direct APK release!
           </p>
 
           {/* Launching Badges */}
           <div className="flex flex-wrap items-center justify-center gap-4 mb-10">
-            <div className="flex items-center gap-2 px-5 py-3 rounded-2xl bg-white/5 border border-white/15 text-white text-sm font-medium">
-              <Play className="text-[#31b7d6]" size={20} />
-              <span>Google Play Store — Coming Soon</span>
-            </div>
+            <a 
+              href={ANDROID_APK_URL}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="flex items-center gap-2 px-5 py-3 rounded-2xl bg-gradient-to-r from-primary/20 to-purple-600/20 border border-primary/40 text-white text-sm font-medium hover:border-primary transition-all shadow-lg shadow-primary/10"
+            >
+              <Download className="text-[#31b7d6]" size={20} />
+              <span>Download Android APK</span>
+            </a>
             <div className="flex items-center gap-2 px-5 py-3 rounded-2xl bg-white/5 border border-white/15 text-white text-sm font-medium">
               <Smartphone className="text-primary" size={20} />
               <span>Apple App Store — Coming Soon</span>

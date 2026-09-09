@@ -3,6 +3,7 @@ import { NavLink } from 'react-router-dom';
 import footerData from '../json/footer.json';
 import companyData from '../json/company.json';
 import { Instagram, Facebook, Twitter, Linkedin, Youtube, ArrowRight } from 'lucide-react';
+import { ANDROID_APK_URL } from '../constants';
 
 const iconMap: Record<string, React.ReactNode> = {
   Instagram: <Instagram size={20} />,
@@ -58,20 +59,38 @@ const Footer: React.FC = () => {
           <div>
             <h3 className="font-display font-semibold text-white mb-6 tracking-wide">Quick Links</h3>
             <ul className="space-y-4">
-              {footerData.quickLinks.map((link, idx) => (
-                <li key={idx}>
-                  <NavLink 
-                    to={link.path}
-                    onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
-                    className="text-white/60 hover:text-white transition-colors text-sm flex items-center group"
-                  >
-                    <span className="w-0 overflow-hidden group-hover:w-4 transition-all duration-300">
-                      <ArrowRight size={14} className="text-accent" />
-                    </span>
-                    <span className="group-hover:translate-x-1 transition-transform duration-300 block">{link.label}</span>
-                  </NavLink>
-                </li>
-              ))}
+              {footerData.quickLinks.map((link, idx) => {
+                const targetUrl = link.path.startsWith('http') ? ANDROID_APK_URL : link.path;
+                const isExternal = link.path.startsWith('http');
+                return (
+                  <li key={idx}>
+                    {isExternal ? (
+                      <a
+                        href={targetUrl}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-white/60 hover:text-white transition-colors text-sm flex items-center group"
+                      >
+                        <span className="w-0 overflow-hidden group-hover:w-4 transition-all duration-300">
+                          <ArrowRight size={14} className="text-accent" />
+                        </span>
+                        <span className="group-hover:translate-x-1 transition-transform duration-300 block">{link.label}</span>
+                      </a>
+                    ) : (
+                      <NavLink 
+                        to={link.path}
+                        onClick={() => window.scrollTo({ top: 0, behavior: 'smooth' })}
+                        className="text-white/60 hover:text-white transition-colors text-sm flex items-center group"
+                      >
+                        <span className="w-0 overflow-hidden group-hover:w-4 transition-all duration-300">
+                          <ArrowRight size={14} className="text-accent" />
+                        </span>
+                        <span className="group-hover:translate-x-1 transition-transform duration-300 block">{link.label}</span>
+                      </NavLink>
+                    )}
+                  </li>
+                );
+              })}
             </ul>
           </div>
 

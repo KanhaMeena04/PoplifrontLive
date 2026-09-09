@@ -4,6 +4,7 @@
     { "label": "Features", "path": "/features" },
     { "label": "Creator Economy", "path": "/creator-economy" },
     { "label": "About Popli", "path": "/about" },
+    { "label": "Download Now", "path": "https://github.com/KanhaMeena04/PoplifrontLive/releases/download/v1.0.0/Popli-release.apk" },
     { "label": "Contact Us", "path": "/contact" }
   ],
   "legalLinks": [

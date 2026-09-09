@@ -1,14 +1,13 @@
 import React, { useRef } from 'react';
 import { NavLink } from 'react-router-dom';
 import { motion, useScroll, useTransform } from 'framer-motion';
-import { Clock, QrCode } from 'lucide-react';
+import { Download, QrCode } from 'lucide-react';
+import { ANDROID_APK_URL } from '../../constants';
 
 const CTASection: React.FC = () => {
   const containerRef = useRef<HTMLDivElement>(null);
 
-  const qrUrl = typeof window !== 'undefined' 
-    ? `${window.location.origin}/coming-soon` 
-    : 'https://popli.in/coming-soon';
+  const qrUrl = ANDROID_APK_URL;
 
   const { scrollYProgress } = useScroll({
     target: containerRef,
@@ -40,7 +39,7 @@ const CTASection: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.2 }}
             className="text-3xl md:text-4xl lg:text-5xl font-display font-bold text-white mb-12 tracking-tighter"
           >
-            Start Earning Soon. <br/><span className="text-gradient">App Launching Soon</span>
+            Start Earning Today. <br/><span className="text-gradient">Download Popli App</span>
           </motion.h2>
           
           <motion.div 
@@ -50,27 +49,29 @@ const CTASection: React.FC = () => {
             transition={{ duration: 0.8, delay: 0.3 }}
             className="flex flex-col items-center gap-8 mb-12"
           >
-            <NavLink 
-              to="/coming-soon"
+            <a 
+              href={ANDROID_APK_URL}
+              target="_blank"
+              rel="noopener noreferrer"
               className="px-10 py-5 rounded-full bg-gradient-to-r from-purple-600 to-pink-600 hover:from-purple-500 hover:to-pink-500 text-white font-bold text-2xl overflow-hidden shadow-[0_0_30px_rgba(147,51,234,0.5)] transition-all flex items-center gap-3"
             >
-              <Clock className="w-7 h-7 animate-pulse text-[#fbc343]" />
-              Coming Soon for Android
-            </NavLink>
+              <Download className="w-7 h-7 text-[#fbc343]" />
+              Download for Android
+            </a>
             
             <div className="flex flex-col items-center gap-3">
-              <NavLink to="/coming-soon" className="group">
+              <a href={ANDROID_APK_URL} target="_blank" rel="noopener noreferrer" className="group">
                 <div className="w-40 h-40 bg-white p-2 rounded-2xl flex items-center justify-center overflow-hidden transition-transform duration-300 group-hover:scale-105 shadow-lg shadow-purple-500/20">
                   <img 
                     src={`https://api.qrserver.com/v1/create-qr-code/?size=200x200&data=${encodeURIComponent(qrUrl)}`} 
-                    alt="Scan to Check Status" 
+                    alt="Scan to Download App" 
                     className="w-full h-full object-contain"
                   />
                 </div>
-              </NavLink>
+              </a>
               <p className="text-white/80 font-medium flex items-center gap-2">
                 <QrCode size={16} className="text-[#31b7d6]" />
-                <span>Scan QR for App Status</span>
+                <span>Scan QR to Download App</span>
               </p>
             </div>
           </motion.div>

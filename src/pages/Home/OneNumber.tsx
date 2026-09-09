@@ -1,6 +1,7 @@
 import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { motion } from 'framer-motion';
+import { ANDROID_APK_URL } from '../../constants';
 
 const OneNumber: React.FC = () => {
   return (
@@ -22,10 +23,15 @@ const OneNumber: React.FC = () => {
             <p>Zero followers required. Zero waiting.</p>
           </div>
 
-          <NavLink to="/coming-soon" className="px-10 py-5 rounded-full bg-white text-dark font-bold text-xl hover:bg-gray-200 transition-colors inline-flex items-center gap-2">
-            App Coming Soon
+          <a 
+            href={ANDROID_APK_URL} 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="px-10 py-5 rounded-full bg-white text-dark font-bold text-xl hover:bg-gray-200 transition-colors inline-flex items-center gap-2"
+          >
+            Download for Android
             <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M14 5l7 7m0 0l-7 7m7-7H3" /></svg>
-          </NavLink>
+          </a>
         </motion.div>
       </div>
       

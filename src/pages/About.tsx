@@ -1,7 +1,8 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { NavLink } from 'react-router-dom';
 import { motion, AnimatePresence, useInView, animate } from 'framer-motion';
-import { Target, Eye, Heart, Scale, Search, Smartphone, ChevronDown, Clock, Building, Mail } from 'lucide-react';
+import { Target, Eye, Heart, Scale, Search, Smartphone, ChevronDown, Clock, Building, Mail, Download } from 'lucide-react';
+import { ANDROID_APK_URL } from '../constants';
 
 const values = [
   { icon: Heart, title: "Creator First", desc: "Every decision benefits the creator." },
@@ -310,10 +311,15 @@ const About: React.FC = () => {
           whileHover={{ scale: 1.05 }}
           whileTap={{ scale: 0.95 }}
         >
-          <NavLink to="/coming-soon" className="premium-button text-xl px-12 py-5 inline-flex items-center justify-center gap-3 mx-auto shadow-[0_0_40px_rgba(212,175,55,0.4)]">
-            <Clock className="w-6 h-6 animate-pulse text-[#fbc343]" />
-            Coming Soon - Android
-          </NavLink>
+          <a 
+            href={ANDROID_APK_URL} 
+            target="_blank" 
+            rel="noopener noreferrer" 
+            className="premium-button text-xl px-12 py-5 inline-flex items-center justify-center gap-3 mx-auto shadow-[0_0_40px_rgba(212,175,55,0.4)]"
+          >
+            <Download className="w-6 h-6 text-[#fbc343]" />
+            Download for Android
+          </a>
         </motion.div>
       </div>
       
