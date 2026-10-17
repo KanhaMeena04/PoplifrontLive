@@ -9,6 +9,12 @@ import CreatorEconomy from './pages/CreatorEconomy';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Legal from './pages/Legal';
+import CommunityGuidelines from './pages/Legal/CommunityGuidelines';
+import ChildSafetyPolicy from './pages/Legal/ChildSafetyPolicy';
+import AbusePreventionPolicy from './pages/Legal/AbusePreventionPolicy';
+import PrivacyPolicy from './pages/Legal/PrivacyPolicy';
+import TermsAndConditions from './pages/Legal/TermsAndConditions';
+import CookiesPolicy from './pages/Legal/CookiesPolicy';
 import ComingSoon from './pages/ComingSoon';
 
 import Loader from './components/Loader';
@@ -39,10 +45,15 @@ function App() {
               <Route path="creator-economy" element={<CreatorEconomy />} />
               <Route path="about" element={<About />} />
               <Route path="contact" element={<Contact />} />
-              <Route path="privacy-policy" element={<Legal />} />
-              <Route path="terms" element={<Legal />} />
-              <Route path="guidelines" element={<Legal />} />
-              <Route path="cookies" element={<Legal />} />
+              <Route path="legal" element={<Legal />} />
+              <Route path="guidelines" element={<CommunityGuidelines />} />
+              <Route path="community-guidelines" element={<CommunityGuidelines />} />
+              <Route path="child-safety-policy" element={<ChildSafetyPolicy />} />
+              <Route path="abuse-prevention-policy" element={<AbusePreventionPolicy />} />
+              <Route path="privacy-policy" element={<PrivacyPolicy />} />
+              <Route path="terms" element={<TermsAndConditions />} />
+              <Route path="terms-and-conditions" element={<TermsAndConditions />} />
+              <Route path="cookies" element={<CookiesPolicy />} />
               <Route path="coming-soon" element={<ComingSoon />} />
               <Route path="download" element={<ComingSoon />} />
               <Route path="*" element={<Home />} />

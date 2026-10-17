@@ -1,15 +1,55 @@
 {
   "quickLinks": [
-    { "label": "Home", "path": "/" },
-    { "label": "Features", "path": "/features" },
-    { "label": "Creator Economy", "path": "/creator-economy" },
-    { "label": "About Popli", "path": "/about" },
-    { "label": "Download Now", "path": "https://github.com/KanhaMeena04/PoplifrontLive/releases/download/v1.0.0/Popli-release.apk" },
-    { "label": "Contact Us", "path": "/contact" }
+    {
+      "label": "Home",
+      "path": "/"
+    },
+    {
+      "label": "Features",
+      "path": "/features"
+    },
+    {
+      "label": "Creator Economy",
+      "path": "/creator-economy"
+    },
+    {
+      "label": "About Popli",
+      "path": "/about"
+    },
+    {
+      "label": "Download Now",
+      "path": "https://github.com/KanhaMeena04/PoplifrontLive/releases/download/v1.0.0/Popli-release.apk"
+    },
+    {
+      "label": "Contact Us",
+      "path": "/contact"
+    }
   ],
   "legalLinks": [
-    { "label": "Privacy Policy", "path": "/privacy-policy" },
-    { "label": "Terms of Service", "path": "/terms" }
+    {
+      "label": "Community Guidelines",
+      "path": "/community-guidelines"
+    },
+    {
+      "label": "Child Safety & CSAE Reporting Policy",
+      "path": "/child-safety-policy"
+    },
+    {
+      "label": "Protecting Against Exploitative Content",
+      "path": "/abuse-prevention-policy"
+    },
+    {
+      "label": "Privacy Policy",
+      "path": "/privacy-policy"
+    },
+    {
+      "label": "Terms and Conditions",
+      "path": "/terms"
+    },
+    {
+      "label": "Cookie Policy",
+      "path": "/cookies"
+    }
   ],
   "newsletter": {
     "title": "Stay Updated",
