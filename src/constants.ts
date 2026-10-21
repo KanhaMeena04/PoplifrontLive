@@ -1,8 +1,8 @@
-export const ANDROID_APK_URL =
-  'https://github.com/KanhaMeena04/PoplifrontLive/releases/download/v1.0.0/Popli-release.apk';
-
 export const PLAY_STORE_URL =
   'https://play.google.com/store/apps/details?id=com.popli.app';
+
+// All download buttons/links redirect to the Google Play Store listing.
+export const ANDROID_APK_URL = PLAY_STORE_URL;
 
 export const APP_SCHEME = 'popliapp';
 
