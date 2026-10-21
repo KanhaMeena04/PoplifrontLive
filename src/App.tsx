@@ -16,6 +16,7 @@ import PrivacyPolicy from './pages/Legal/PrivacyPolicy';
 import TermsAndConditions from './pages/Legal/TermsAndConditions';
 import CookiesPolicy from './pages/Legal/CookiesPolicy';
 import ComingSoon from './pages/ComingSoon';
+import ReelPage from './pages/ReelPage';
 
 import Loader from './components/Loader';
 import CustomCursor from './components/CustomCursor';
@@ -24,6 +25,7 @@ import SmoothScroll from './components/SmoothScroll';
 function App() {
   const [loading, setLoading] = useState(true);
   const location = useLocation();
+  const isReelRoute = location.pathname.startsWith('/reel/');
 
   // Scroll to top on route change
   useEffect(() => {
@@ -34,9 +36,9 @@ function App() {
     <SmoothScroll>
       <CustomCursor />
       
-      {loading && <Loader onComplete={() => setLoading(false)} />}
+      {loading && !isReelRoute && <Loader onComplete={() => setLoading(false)} />}
       
-      {!loading && (
+      {(!loading || isReelRoute) && (
         <AnimatePresence mode="wait">
           <Routes location={location} key={location.pathname}>
             <Route path="/" element={<Layout />}>
@@ -56,6 +58,7 @@ function App() {
               <Route path="cookies" element={<CookiesPolicy />} />
               <Route path="coming-soon" element={<ComingSoon />} />
               <Route path="download" element={<ComingSoon />} />
+              <Route path="reel/:id" element={<ReelPage />} />
               <Route path="*" element={<Home />} />
             </Route>
           </Routes>

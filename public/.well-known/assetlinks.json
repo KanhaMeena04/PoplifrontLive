@@ -1,0 +1,11 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.popli.app",
+    "sha256_cert_fingerprints": [
+      "45:4D:BC:1B:D5:DD:C4:9A:7B:20:48:C6:52:F0:E1:A7:2C:35:A9:3F:40:D1:84:99:D1:3A:FF:DA:0E:F6:95:C6",
+      "96:D5:DB:25:56:81:88:8F:E4:C8:32:AF:27:FF:B8:34:44:A4:A2:56:B6:1F:2E:E3:CC:2A:9D:01:04:9A:4B:1A"
+    ]
+  }
+}]
