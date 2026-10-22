@@ -1,7 +1,7 @@
 import React, { useRef } from 'react';
 import { NavLink } from 'react-router-dom';
 import { motion, useScroll, useTransform } from 'framer-motion';
-import { Download, QrCode } from 'lucide-react';
+import { Download, QrCode, Rocket } from 'lucide-react';
 import { ANDROID_APK_URL } from '../../constants';
 
 const CTASection: React.FC = () => {
@@ -24,11 +24,9 @@ const CTASection: React.FC = () => {
         style={{ scale, opacity, y }}
         className="w-full h-full max-w-5xl mx-auto rounded-[3rem] md:rounded-[4rem] relative overflow-hidden flex flex-col items-center justify-center text-center p-8 border border-white/10 shadow-[0_0_100px_rgba(147,51,234,0.15)]"
       >
-        {/* Massive Glowing Orb Background */}
         <div className="absolute inset-0 bg-dark z-0" />
         <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-[120%] h-[120%] md:w-[80vw] md:h-[80vw] bg-[radial-gradient(circle,rgba(147,51,234,0.25)_0%,rgba(212,175,55,0.1)_30%,transparent_70%)] rounded-full blur-[100px] pointer-events-none z-0 animate-pulse" style={{ animationDuration: '4s' }} />
         
-        {/* Inner Glass Layer */}
         <div className="absolute inset-0 bg-gradient-to-b from-transparent to-dark/80 z-0" />
 
         <div className="relative z-10 flex flex-col items-center w-full">
@@ -84,7 +82,7 @@ const CTASection: React.FC = () => {
             className="flex flex-wrap items-center justify-center gap-4 text-white/80 font-medium bg-white/5 px-8 py-4 rounded-full border border-white/10"
           >
             <div className="flex items-center gap-2">
-              <span className="text-yellow">🚀</span>
+              <Rocket className="w-4 h-4 text-yellow-400" />
               <span className="font-bold text-white">Coming Soon</span>
             </div>
             <span className="text-white/30">|</span>

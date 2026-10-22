@@ -2,11 +2,10 @@ import React from 'react';
 import { motion } from 'framer-motion';
 
 export interface EarnWay {
-  icon: string;
+  icon: React.ReactNode;
   title: string;
   points: string[];
 }
-
 interface EarnRoadmapSectionProps {
   ways: EarnWay[];
 }
@@ -123,7 +122,7 @@ export const EarnRoadmapSection: React.FC<EarnRoadmapSectionProps> = ({ ways }) 
                     >
                       {/* Outer Color Ring / Badge Top Header */}
                       <div className="flex items-center gap-3 mb-4 border-b border-white/10 pb-3">
-                        <div className={`w-12 h-12 rounded-full ${theme.ring} flex items-center justify-center text-2xl shadow-lg text-white font-bold`}>
+                                         <div className={`w-12 h-12 rounded-full ${theme.ring} flex items-center justify-center shadow-lg text-white`}>
                           {way.icon}
                         </div>
                         <h3 className={`text-lg font-bold font-display tracking-wider ${theme.text}`}>
@@ -194,7 +193,7 @@ export const EarnRoadmapSection: React.FC<EarnRoadmapSectionProps> = ({ ways }) 
                       
                       {/* Outer Color Ring / Badge Top Header */}
                       <div className="flex items-center gap-3 mb-4 border-b border-white/10 pb-3">
-                        <div className={`w-12 h-12 rounded-full ${theme.ring} flex items-center justify-center text-2xl shadow-lg text-white font-bold`}>
+                        <div className={`w-12 h-12 rounded-full ${theme.ring} flex items-center justify-center shadow-lg text-white`}>
                           {way.icon}
                         </div>
                         <h3 className={`text-lg font-bold font-display tracking-wider ${theme.text}`}>
@@ -247,7 +246,7 @@ export const EarnRoadmapSection: React.FC<EarnRoadmapSectionProps> = ({ ways }) 
                 {/* Mobile Card */}
                 <div className={`glass-card p-6 rounded-3xl border-2 ${theme.border} bg-slate-900/90 shadow-xl`}>
                   <div className="flex items-center gap-3 mb-3 border-b border-white/10 pb-3">
-                    <div className={`w-10 h-10 rounded-full ${theme.ring} flex items-center justify-center text-xl shadow text-white font-bold`}>
+                    <div className={`w-10 h-10 rounded-full ${theme.ring} flex items-center justify-center shadow text-white`}>
                       {way.icon}
                     </div>
                     <h3 className={`text-base font-bold font-display ${theme.text}`}>

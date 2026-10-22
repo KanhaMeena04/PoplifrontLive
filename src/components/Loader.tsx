@@ -65,24 +65,7 @@ const Loader: React.FC<{ onComplete: () => void }> = ({ onComplete }) => {
             <img src={logo} alt="Popli Logo" className="h-32 md:h-48 w-auto object-contain drop-shadow-2xl mix-blend-screen" />
           </motion.div>
 
-          {/* Progress Bar Container */}
-          <div className="w-64 h-1 bg-white/10 rounded-full overflow-hidden relative">
-            <motion.div
-              className="absolute top-0 left-0 h-full bg-gradient-to-r from-blue-400 to-purple-500 rounded-full shadow-[0_0_10px_rgba(59,130,246,0.5)]"
-              initial={{ width: '0%' }}
-              animate={{ width: `${progress}%` }}
-              transition={{ ease: 'easeOut' }}
-            />
-          </div>
-          
-          <motion.div 
-            className="mt-4 text-sm font-sans text-white/60 uppercase tracking-widest font-medium"
-            initial={{ opacity: 0, y: 10 }}
-            animate={{ opacity: 1, y: 0 }}
-            transition={{ delay: 0.2 }}
-          >
-            {progress}% — Loading Experience
-          </motion.div>
+
         </div>
       </motion.div>
     </AnimatePresence>

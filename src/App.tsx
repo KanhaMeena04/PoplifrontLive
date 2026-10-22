@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from 'react';
+import React, { useEffect } from 'react';
 import { Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 
@@ -18,16 +18,12 @@ import CookiesPolicy from './pages/Legal/CookiesPolicy';
 import ComingSoon from './pages/ComingSoon';
 import ReelPage from './pages/ReelPage';
 
-import Loader from './components/Loader';
 import CustomCursor from './components/CustomCursor';
 import SmoothScroll from './components/SmoothScroll';
 
 function App() {
-  const [loading, setLoading] = useState(true);
   const location = useLocation();
-  const isReelRoute = location.pathname.startsWith('/reel/');
 
-  // Scroll to top on route change
   useEffect(() => {
     window.scrollTo(0, 0);
   }, [location.pathname]);
@@ -35,35 +31,30 @@ function App() {
   return (
     <SmoothScroll>
       <CustomCursor />
-      
-      {loading && !isReelRoute && <Loader onComplete={() => setLoading(false)} />}
-      
-      {(!loading || isReelRoute) && (
-        <AnimatePresence mode="wait">
-          <Routes location={location} key={location.pathname}>
-            <Route path="/" element={<Layout />}>
-              <Route index element={<Home />} />
-              <Route path="features" element={<FeaturesPage />} />
-              <Route path="creator-economy" element={<CreatorEconomy />} />
-              <Route path="about" element={<About />} />
-              <Route path="contact" element={<Contact />} />
-              <Route path="legal" element={<Legal />} />
-              <Route path="guidelines" element={<CommunityGuidelines />} />
-              <Route path="community-guidelines" element={<CommunityGuidelines />} />
-              <Route path="child-safety-policy" element={<ChildSafetyPolicy />} />
-              <Route path="abuse-prevention-policy" element={<AbusePreventionPolicy />} />
-              <Route path="privacy-policy" element={<PrivacyPolicy />} />
-              <Route path="terms" element={<TermsAndConditions />} />
-              <Route path="terms-and-conditions" element={<TermsAndConditions />} />
-              <Route path="cookies" element={<CookiesPolicy />} />
-              <Route path="coming-soon" element={<ComingSoon />} />
-              <Route path="download" element={<ComingSoon />} />
-              <Route path="reel/:id" element={<ReelPage />} />
-              <Route path="*" element={<Home />} />
-            </Route>
-          </Routes>
-        </AnimatePresence>
-      )}
+      <AnimatePresence mode="wait">
+        <Routes location={location} key={location.pathname}>
+          <Route path="/" element={<Layout />}>
+            <Route index element={<Home />} />
+            <Route path="features" element={<FeaturesPage />} />
+            <Route path="creator-economy" element={<CreatorEconomy />} />
+            <Route path="about" element={<About />} />
+            <Route path="contact" element={<Contact />} />
+            <Route path="legal" element={<Legal />} />
+            <Route path="guidelines" element={<CommunityGuidelines />} />
+            <Route path="community-guidelines" element={<CommunityGuidelines />} />
+            <Route path="child-safety-policy" element={<ChildSafetyPolicy />} />
+            <Route path="abuse-prevention-policy" element={<AbusePreventionPolicy />} />
+            <Route path="privacy-policy" element={<PrivacyPolicy />} />
+            <Route path="terms" element={<TermsAndConditions />} />
+            <Route path="terms-and-conditions" element={<TermsAndConditions />} />
+            <Route path="cookies" element={<CookiesPolicy />} />
+            <Route path="coming-soon" element={<ComingSoon />} />
+            <Route path="download" element={<ComingSoon />} />
+            <Route path="reel/:id" element={<ReelPage />} />
+            <Route path="*" element={<Home />} />
+          </Route>
+        </Routes>
+      </AnimatePresence>
     </SmoothScroll>
   );
 }

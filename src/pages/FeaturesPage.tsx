@@ -2,14 +2,14 @@ import React from 'react';
 import { NavLink } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import * as Icons from 'lucide-react';
-import { Check, X, Download } from 'lucide-react';
+import { Check, X, Download, DollarSign, Gift, Trophy, Star } from 'lucide-react';
 import EarnRoadmapSection from '../components/EarnRoadmapSection';
 import RadialFeaturesSection from '../components/RadialFeaturesSection';
 import { ANDROID_APK_URL } from '../constants';
 
 const fourWaysToEarn = [
   {
-    icon: '💰',
+    icon: <DollarSign className="w-7 h-7" />,
     title: 'VIEW EARNINGS',
     points: [
       '₹5 per 1,000 genuine views',
@@ -18,7 +18,7 @@ const fourWaysToEarn = [
     ]
   },
   {
-    icon: '🎁',
+    icon: <Gift className="w-7 h-7" />,
     title: 'VIRTUAL GIFTING',
     points: [
       'Fans send virtual gifts while watching',
@@ -27,7 +27,7 @@ const fourWaysToEarn = [
     ]
   },
   {
-    icon: '🏆',
+    icon: <Trophy className="w-7 h-7" />,
     title: 'WEEKLY CHALLENGES',
     points: [
       'Brand-sponsored competitions',
@@ -36,7 +36,7 @@ const fourWaysToEarn = [
     ]
   },
   {
-    icon: '⭐',
+    icon: <Star className="w-7 h-7" />,
     title: 'CREATOR SUBSCRIPTIONS',
     points: [
       'Fans pay monthly for exclusive content',
@@ -51,13 +51,12 @@ const comparisonData = [
   { feature: 'Followers needed', ig: '10,000', yt: '1,000', popli: '0' },
   { feature: 'Views needed', ig: '-', yt: '4000hrs', popli: '0' },
   { feature: 'Guaranteed rate', ig: false, yt: false, popli: '₹5/1K' },
-  { feature: 'Works on 3G', ig: '⚠️', yt: '⚠️', popli: true },
+  { feature: 'Works on 3G', ig: 'Limited', yt: 'Limited', popli: true },
   { feature: 'Hindi interface', ig: false, yt: false, popli: true },
   { feature: 'Tier 2/3 focus', ig: false, yt: false, popli: true },
 ];
 
 const appFeatures = [
-  // New earning features
   {
     title: 'Earnings Dashboard',
     description: 'See your ₹ growing in real-time as your views increase.',
@@ -93,7 +92,6 @@ const appFeatures = [
     description: 'Earnings and view counts are refreshed every hour.',
     icon: 'RefreshCw'
   },
-  // Existing features
   {
     title: 'Infinite Reels',
     description: 'Endless stream of high-quality, entertaining content curated just for you.',
@@ -124,13 +122,11 @@ const Features: React.FC = () => {
       exit={{ opacity: 0 }}
       className="pt-32 pb-24 min-h-screen relative bg-dark"
     >
-      {/* Dynamic Background Effects */}
       <div className="absolute top-0 right-1/4 w-[40vw] h-[40vw] bg-primary/10 rounded-full blur-[150px] pointer-events-none mix-blend-screen" />
       <div className="absolute bottom-0 left-1/4 w-[30vw] h-[30vw] bg-purple-600/10 rounded-full blur-[120px] pointer-events-none mix-blend-screen" />
 
       <div className="max-w-7xl mx-auto px-6 relative z-10">
 
-        {/* Section 1: Page Headline */}
         <div className="text-center mb-24 mt-8">
           <motion.h1
             initial={{ y: 20, opacity: 0 }}
@@ -151,12 +147,10 @@ const Features: React.FC = () => {
           </motion.p>
         </div>
 
-        {/* Section 2: Four Ways to Earn (Roadmap Serpentine Infographic) */}
         <div className="mb-32">
           <EarnRoadmapSection ways={fourWaysToEarn} />
         </div>
 
-        {/* Section 3: Comparison Table */}
         <div className="mb-32 max-w-5xl mx-auto">
           <div className="text-center mb-12">
             <h2 className="text-3xl md:text-4xl lg:text-5xl font-display font-bold text-white mb-4">Why Creators Choose Popli</h2>
@@ -211,12 +205,10 @@ const Features: React.FC = () => {
           </div>
         </div>
 
-        {/* Section 4: Powerful Features Radial Infographic Hub */}
         <div className="mb-32">
           <RadialFeaturesSection features={appFeatures} />
         </div>
 
-        {/* Section 5: Download Button */}
         <div className="text-center pb-12">
           <motion.div
             initial={{ opacity: 0, scale: 0.9 }}
