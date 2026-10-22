@@ -16,6 +16,10 @@
       "destination": "/api/reel?id=:id"
     },
     {
+      "source": "/join/:code",
+      "destination": "https://popli-48dcc.web.app/join/:code"
+    },
+    {
       "source": "/(.*)",
       "destination": "/index.html"
     }
